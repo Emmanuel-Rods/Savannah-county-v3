@@ -8,6 +8,7 @@
 async function get_contacts(
   entityId = "1dc054f8-73a2-4e8d-ae10-11438dee663e",
   base,
+  auth,
   options = {},
 ) {
   const url = `${base}/selfservice/api/energov/entity/contacts/search/search`;
@@ -35,6 +36,7 @@ async function get_contacts(
     "user-agent":
       "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
     Cookie: "Tyler-Tenant-Culture=en-US",
+    authorization: auth,
   };
 
   // Construct the payload using default values from the cURL,

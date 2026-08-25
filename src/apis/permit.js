@@ -6,7 +6,7 @@
  * @returns {Promise<Object>} - The JSON response from the API.
  */
 
-async function get_permit(entityId, base, moduleId = 1) {
+async function get_permit(entityId, base, auth, moduleId = 1) {
   const url = `${base}/selfservice/api/energov/permits/permitdetail`;
 
   const headers = {
@@ -32,6 +32,7 @@ async function get_permit(entityId, base, moduleId = 1) {
     "user-agent":
       "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
     Cookie: "Tyler-Tenant-Culture=en-US",
+    authorization: auth,
   };
 
   const body = JSON.stringify({

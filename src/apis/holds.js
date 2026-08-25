@@ -5,7 +5,7 @@
  * @param {Object} options - Optional overrides for the JSON payload (e.g., PageNumber, PageSize).
  * @returns {Promise<Object>} - The JSON response from the API.
  */
-async function get_holds(entityId, base, options = {}) {
+async function get_holds(entityId, base, auth, options = {}) {
   const url = `${base}/selfservice/api/energov/entity/holds/search`;
 
   const headers = {
@@ -31,6 +31,7 @@ async function get_holds(entityId, base, options = {}) {
     "user-agent":
       "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
     Cookie: "Tyler-Tenant-Culture=en-US",
+    authorization: auth,
   };
 
   // Construct the payload using default values from the cURL,

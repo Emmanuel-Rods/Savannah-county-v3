@@ -5,7 +5,7 @@
  * @param {number|string} moduleId - The module ID (defaults to 1).
  * @returns {Promise<Object>} - The JSON response from the API.
  */
-async function get_summary(entityId, base, moduleId = 1) {
+async function get_summary(entityId, base, auth, moduleId = 1) {
   // Construct the URL dynamically using the provided IDs
   const url = `${base}/selfservice/api/energov/workflow/summary/activities/${moduleId}/${entityId}`;
 
@@ -30,6 +30,7 @@ async function get_summary(entityId, base, moduleId = 1) {
     "user-agent":
       "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
     Cookie: "Tyler-Tenant-Culture=en-US",
+    authorization: auth,
   };
 
   try {
