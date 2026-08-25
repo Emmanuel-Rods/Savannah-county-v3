@@ -39,21 +39,43 @@ async function fetchNewPermits(file, outputFolder = "permits", base) {
 
       console.log(`Processing Case: ${CaseNumber} (${CaseId})...`);
 
+      let token;
+      try {
+        // 1. Check if file exists and read it
+        token = fs.readFileSync("token", "utf-8").trim();
+
+        // 2. Check if the file was empty
+        if (!token) {
+          throw new Error("Token file exists but is completely empty.");
+        }
+      } catch (error) {
+        // 3. Print a clear fatal error message and kill everything immediately
+        console.error("\n💥 FATAL ERROR: Unable to load authentication token!");
+        console.error(`Reason: ${error.message}`);
+        console.error(
+          "Aborting execution to prevent partial/corrupted data.\n",
+        );
+
+        process.exit(1);
+      }
+
+      const auth = `Bearer ${token}`;
+
       try {
         const [contacts, inspections, permit, summary] = await Promise.all([
-          get_contacts(CaseId, base).catch((err) => ({
+          get_contacts(CaseId, base, auth).catch((err) => ({
             error: true,
             message: err.message,
           })),
-          get_inspection(CaseId, base).catch((err) => ({
+          get_inspection(CaseId, base, auth).catch((err) => ({
             error: true,
             message: err.message,
           })),
-          get_permit(CaseId, base).catch((err) => ({
+          get_permit(CaseId, base, auth).catch((err) => ({
             error: true,
             message: err.message,
           })),
-          get_summary(CaseId, base).catch((err) => ({
+          get_summary(CaseId, base, auth).catch((err) => ({
             error: true,
             message: err.message,
           })),
