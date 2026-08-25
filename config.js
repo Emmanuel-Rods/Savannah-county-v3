@@ -1,22 +1,18 @@
-const base = "https://wakecountync-energovpub.tylerhost.net/apps"; // No trailing slash
+const base = "https://etrac.savannahga.gov/EnerGov_Prod/"; // No trailing slash
 
-const dateOffset = 1; // 1 = yesterday
+const dateOffset = 100; // 1 = yesterday
 
 // statuses that need to pulled using daily.js
-const requiredStatuses = [
-  "Issued",
-  "In Review",
-  "On Hold",
-  "Pending Approval",
-  "Submitted",
-];
+const requiredStatuses = ["Issued"];
 
 // permit types
 const requiredSecondaryData = [
-  "Residential - New One- and Two-Family Dwelling",
-  "Commercial New Multi Family",
-  "Commercial New Building or Addition",
-  "Residential Addition",
+  "Commercial Building Addition",
+  "Commercial Building Renovation",
+  "New Commercial Building",
+  "New Residential Building",
+  "Residential Building Addition",
+  "Residential Building Renovations",
 ];
 
 //status that need be updated
