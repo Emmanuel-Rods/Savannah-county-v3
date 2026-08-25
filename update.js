@@ -30,6 +30,9 @@ const statusIds = loadJson("./site.data/status.ids.json");
 //validate the the contents of the array matches with the files
 validateStatuses(statusIds, updateStatuses);
 
+// token
+const { getToken } = require("./login/token.js");
+
 async function process(status) {
   //get
   console.log(
@@ -64,12 +67,32 @@ async function process(status) {
 
 const statuses = updateStatuses;
 
+const tokenTimer = setInterval(
+  () => {
+    console.log(
+      "⏰ 45 minutes passed! Fetching token again in the background...",
+    );
+    getToken().catch((err) =>
+      console.error("Error in background getToken:", err),
+    );
+  },
+  45 * 60 * 1000,
+); // 600,000 milliseconds
+
+let firstTime = true;
+
 async function update() {
   for (const status of statuses) {
+    if (firstTime) {
+      await getToken();
+      firstTime = false;
+    }
+
     await process(status);
     console.log(`Completed : ${status}`);
   }
   console.log("All statuses Completed");
+  clearInterval(tokenTimer);
 }
 
 update();

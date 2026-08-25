@@ -20,6 +20,9 @@ const {
   requiredSecondaryData,
 } = require("./config.js");
 
+// token
+const { getToken } = require("./login/token.js");
+
 // making sure the files exits
 const statusIds = loadJson("./site.data/status.ids.json");
 const secondaryIds = loadJson("./site.data/secondary.data.json");
@@ -50,6 +53,20 @@ function getDateDaysAgo(offset = 1) {
 
 const payload = loadJson("src/search-permits/payload.json");
 
+const tokenTimer = setInterval(
+  () => {
+    console.log(
+      "⏰ 10 minutes passed! Fetching token again in the background...",
+    );
+    getToken().catch((err) =>
+      console.error("Error in background getToken:", err),
+    );
+  },
+  45 * 60 * 1000,
+); // 45 mins
+
+let firstTime = true;
+
 async function getResultsforStatues(second) {
   payload.PermitCriteria.PermitTypeId = second;
   console.log("Secondary data", second);
@@ -74,6 +91,11 @@ async function getResultsforStatues(second) {
     return;
   }
 
+  if (firstTime) {
+    await getToken();
+    firstTime = false;
+  }
+
   // get info
   await fetchNewPermits("daily_permits.json", "daily_permits", base);
   //push to db
@@ -90,6 +112,7 @@ async function main() {
     await getResultsforStatues(data.CaseTypeId);
   }
   console.log("All done");
+  clearInterval(tokenTimer);
 }
 
 main();
