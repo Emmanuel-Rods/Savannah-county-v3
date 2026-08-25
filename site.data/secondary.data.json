@@ -1,0 +1,2409 @@
+{
+    "Result": {
+        "CaseTypes": [
+            {
+                "CaseTypeId": "none",
+                "CaseTypeName": "--Select Type--",
+                "CategoryObjectId": 0,
+                "CategoryObjectName": "LICENSE",
+                "BusinessLicenseTypeModuleId": 3
+            },
+            {
+                "CaseTypeId": "none",
+                "CaseTypeName": "--Select License Type--",
+                "CategoryObjectId": 0,
+                "CategoryObjectName": "LICENSE",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "none",
+                "CaseTypeName": "--Select Request Type--",
+                "CategoryObjectId": 6,
+                "CategoryObjectName": "REQUEST",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "none",
+                "CaseTypeName": "--Select Case Type--",
+                "CategoryObjectId": 0,
+                "CategoryObjectName": "CODECASE",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "none",
+                "CaseTypeName": "--Select Inspection Type--",
+                "CategoryObjectId": 0,
+                "CategoryObjectName": "INSPECTION",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "none",
+                "CaseTypeName": "--Select Plan Type--",
+                "CategoryObjectId": 0,
+                "CategoryObjectName": "PLAN",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "none",
+                "CaseTypeName": "--Select Permit Type--",
+                "CategoryObjectId": 0,
+                "CategoryObjectName": "PERMIT",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "a8e14034-e57c-0c60-20d7-7843dd70aaae_97b07c98-471b-48a7-8b1f-ee27458a7990",
+                "CaseTypeName": "Access Egress Control - All-inclusive",
+                "CategoryObjectId": 0,
+                "CategoryObjectName": "PERMIT",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "d94b298b-7751-4015-93b7-0fc67cc8953a_1d49bf1f-0ec1-4ef3-9141-5363e3a51149",
+                "CaseTypeName": "Alcoholic Beverage License - Hybrid",
+                "CategoryObjectId": 0,
+                "CategoryObjectName": "PLAN",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "d94b298b-7751-4015-93b7-0fc67cc8953a_4785530a-a552-448b-be31-ebea183e5521",
+                "CaseTypeName": "Alcoholic Beverage License - Regular",
+                "CategoryObjectId": 0,
+                "CategoryObjectName": "PLAN",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "ac30c272-cca5-4ffd-9382-ddb65f3d97b8_e89f9da2-4908-48a6-b1e7-9eda3e54bff3",
+                "CaseTypeName": "Antenna - Co-Location",
+                "CategoryObjectId": 0,
+                "CategoryObjectName": "PLAN",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "ac30c272-cca5-4ffd-9382-ddb65f3d97b8_8c61ad33-c50c-4048-a450-470000d0cc9c",
+                "CaseTypeName": "Antenna - Equipment Upgrade",
+                "CategoryObjectId": 0,
+                "CategoryObjectName": "PLAN",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "ac30c272-cca5-4ffd-9382-ddb65f3d97b8_fedac27a-0795-4681-aa4d-b2c84413deb3",
+                "CaseTypeName": "Antenna - New Tower",
+                "CategoryObjectId": 0,
+                "CategoryObjectName": "PLAN",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "ac30c272-cca5-4ffd-9382-ddb65f3d97b8_38e9bb2c-1110-4a47-ae93-8ad8a8ef986d",
+                "CaseTypeName": "Antenna - Temporary COW",
+                "CategoryObjectId": 0,
+                "CategoryObjectName": "PLAN",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "05cfab96-5cd0-41c1-a8ea-afddcfcbc17c_31af1cf8-f824-4846-bed4-84db35e30946",
+                "CaseTypeName": "Antenna Co-Location",
+                "CategoryObjectId": 1,
+                "CategoryObjectName": "PERMIT",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "05cfab96-5cd0-41c1-a8ea-afddcfcbc17c_a26bad65-0ab5-4661-a363-d5aef3e5ef1d",
+                "CaseTypeName": "Antenna Equipment Upgrade",
+                "CategoryObjectId": 1,
+                "CategoryObjectName": "PERMIT",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "05cfab96-5cd0-41c1-a8ea-afddcfcbc17c_decac614-6b66-43b2-8bef-7c6cf7cc8757",
+                "CaseTypeName": "Antenna, Temporary Cell on Wheels",
+                "CategoryObjectId": 1,
+                "CategoryObjectName": "PERMIT",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "f2c277c1-2098-43a1-8221-37551d488c11_97b07c98-471b-48a7-8b1f-ee27458a7990",
+                "CaseTypeName": "Area of Refuge - All-inclusive",
+                "CategoryObjectId": 0,
+                "CategoryObjectName": "PERMIT",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "1931335f-da20-4fb3-8177-7f498b0037ff_4015526f-3620-4c52-9601-d73a145b46b6",
+                "CaseTypeName": "Assembly - Block Party",
+                "CategoryObjectId": 0,
+                "CategoryObjectName": "PERMIT",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "29242c13-a92a-43bb-bb9a-4a870268dbb7_13a22c30-7fa7-4120-ab59-44c78805966a",
+                "CaseTypeName": "Assembly - Block Party",
+                "CategoryObjectId": 0,
+                "CategoryObjectName": "PLAN",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "1931335f-da20-4fb3-8177-7f498b0037ff_ead4fa81-df85-4c5b-a825-2d66e9d8bf58",
+                "CaseTypeName": "Assembly - Parade",
+                "CategoryObjectId": 0,
+                "CategoryObjectName": "PERMIT",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "29242c13-a92a-43bb-bb9a-4a870268dbb7_950d9683-2a55-4e41-8071-0343310daea6",
+                "CaseTypeName": "Assembly - Parade",
+                "CategoryObjectId": 0,
+                "CategoryObjectName": "PLAN",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "1931335f-da20-4fb3-8177-7f498b0037ff_aabca39a-982a-4e43-976b-3bb887dc2dac",
+                "CaseTypeName": "Assembly - Park or Square",
+                "CategoryObjectId": 0,
+                "CategoryObjectName": "PERMIT",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "29242c13-a92a-43bb-bb9a-4a870268dbb7_87466330-303d-40b6-bac5-7714f1f45137",
+                "CaseTypeName": "Assembly - Park or Square",
+                "CategoryObjectId": 0,
+                "CategoryObjectName": "PLAN",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "1931335f-da20-4fb3-8177-7f498b0037ff_07aff023-9efc-4ece-8a8b-3b03d7078c0c",
+                "CaseTypeName": "Assembly - Public Assembly",
+                "CategoryObjectId": 0,
+                "CategoryObjectName": "PERMIT",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "29242c13-a92a-43bb-bb9a-4a870268dbb7_19b3048d-afdb-4427-97d3-adda12d5df6f",
+                "CaseTypeName": "Assembly - Public Assembly",
+                "CategoryObjectId": 0,
+                "CategoryObjectName": "PLAN",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "86ebf464-51fe-4355-bedd-e555203bc20e_d96195dd-200c-4fa6-ac24-2ceddd3bef75",
+                "CaseTypeName": "Awning Sign",
+                "CategoryObjectId": 1,
+                "CategoryObjectName": "PERMIT",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "86ebf464-51fe-4355-bedd-e555203bc20e_dbdfd059-0b95-4e88-be3f-b8707022286d",
+                "CaseTypeName": "Billboard Sign",
+                "CategoryObjectId": 1,
+                "CategoryObjectName": "PERMIT",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "f774db2c-ee9a-468e-ab80-c2db27976f58_1b110342-9492-47e1-af50-62dbb712e7f6",
+                "CaseTypeName": "Building (C) - Addition",
+                "CategoryObjectId": 0,
+                "CategoryObjectName": "PLAN",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "f774db2c-ee9a-468e-ab80-c2db27976f58_4bfaf44d-e379-d9df-4cd2-4a541f21550a",
+                "CaseTypeName": "Building (C) - Demo Exterior",
+                "CategoryObjectId": 0,
+                "CategoryObjectName": "PLAN",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "f774db2c-ee9a-468e-ab80-c2db27976f58_8323d003-6607-44a2-8804-19a82a0f3e9b",
+                "CaseTypeName": "Building (C) - Demo Interior",
+                "CategoryObjectId": 0,
+                "CategoryObjectName": "PLAN",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "f774db2c-ee9a-468e-ab80-c2db27976f58_262c3452-0769-4d6f-8091-7bbf164a7d34",
+                "CaseTypeName": "Building (C) - Demolition-To Slab",
+                "CategoryObjectId": 0,
+                "CategoryObjectName": "PLAN",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "f774db2c-ee9a-468e-ab80-c2db27976f58_fbf3245d-936c-41ac-9262-735fff99872f",
+                "CaseTypeName": "Building (C) - Demolition-Total",
+                "CategoryObjectId": 0,
+                "CategoryObjectName": "PLAN",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "f774db2c-ee9a-468e-ab80-c2db27976f58_883d977c-0c30-062e-8a5a-6c45e3249704",
+                "CaseTypeName": "Building (C) - Detached Accessory Structure",
+                "CategoryObjectId": 0,
+                "CategoryObjectName": "PLAN",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "f774db2c-ee9a-468e-ab80-c2db27976f58_371c6188-90dd-4124-b3d6-7af13419e935",
+                "CaseTypeName": "Building (C) - Fence or Retaining Wall",
+                "CategoryObjectId": 0,
+                "CategoryObjectName": "PLAN",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "f774db2c-ee9a-468e-ab80-c2db27976f58_bce0c111-01ec-4bd5-a2b2-abeabf891764",
+                "CaseTypeName": "Building (C) - Mobile Units",
+                "CategoryObjectId": 0,
+                "CategoryObjectName": "PLAN",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "f774db2c-ee9a-468e-ab80-c2db27976f58_dbecccd5-23a9-4a72-8383-df5e8626242c",
+                "CaseTypeName": "Building (C) - Modular Units",
+                "CategoryObjectId": 0,
+                "CategoryObjectName": "PLAN",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "f774db2c-ee9a-468e-ab80-c2db27976f58_e2498a3d-ebe2-4f0d-97fb-3d88aae3c501",
+                "CaseTypeName": "Building (C) - New",
+                "CategoryObjectId": 0,
+                "CategoryObjectName": "PLAN",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "f774db2c-ee9a-468e-ab80-c2db27976f58_0d6abfc1-c72c-4e58-806d-9cec9feee67a",
+                "CaseTypeName": "Building (C) - Renovation",
+                "CategoryObjectId": 0,
+                "CategoryObjectName": "PLAN",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "f774db2c-ee9a-468e-ab80-c2db27976f58_33ec8cb2-d782-4251-b7f7-c8b25ef97b50",
+                "CaseTypeName": "Building (C) - Revised Plans",
+                "CategoryObjectId": 0,
+                "CategoryObjectName": "PLAN",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "f774db2c-ee9a-468e-ab80-c2db27976f58_4b22dc5b-adbe-4dd6-be74-86f12b00c385",
+                "CaseTypeName": "Building (C) - Swimming Pool",
+                "CategoryObjectId": 0,
+                "CategoryObjectName": "PLAN",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "3de758c7-ac14-46c1-861e-7b98e2dcdb11_378876af-3cad-456f-aa0a-158302b0aa88",
+                "CaseTypeName": "Building (C) - Vinyl Siding",
+                "CategoryObjectId": 0,
+                "CategoryObjectName": "PERMIT",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "f774db2c-ee9a-468e-ab80-c2db27976f58_4e9b13a9-0117-44d4-8d93-41c10ca981b6",
+                "CaseTypeName": "Building (C) - Vinyl Siding",
+                "CategoryObjectId": 0,
+                "CategoryObjectName": "PLAN",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "08d52f11-d7cd-4566-a51f-9e1b3e6768d4_2b6ab8f7-afc8-3af6-a567-3786d08d7041",
+                "CaseTypeName": "Building (R) - Accessory Dwelling Unit (ADU)",
+                "CategoryObjectId": 0,
+                "CategoryObjectName": "PLAN",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "08d52f11-d7cd-4566-a51f-9e1b3e6768d4_1b110342-9492-47e1-af50-62dbb712e7f6",
+                "CaseTypeName": "Building (R) - Addition",
+                "CategoryObjectId": 0,
+                "CategoryObjectName": "PLAN",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "08d52f11-d7cd-4566-a51f-9e1b3e6768d4_4bfaf44d-e379-d9df-4cd2-4a541f21550a",
+                "CaseTypeName": "Building (R) - Demo Exterior",
+                "CategoryObjectId": 0,
+                "CategoryObjectName": "PLAN",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "08d52f11-d7cd-4566-a51f-9e1b3e6768d4_8323d003-6607-44a2-8804-19a82a0f3e9b",
+                "CaseTypeName": "Building (R) - Demo Interior",
+                "CategoryObjectId": 0,
+                "CategoryObjectName": "PLAN",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "08d52f11-d7cd-4566-a51f-9e1b3e6768d4_1027dbd5-8cc7-4f57-a631-61d16a79cc4c",
+                "CaseTypeName": "Building (R) - Demolition",
+                "CategoryObjectId": 0,
+                "CategoryObjectName": "PLAN",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "08d52f11-d7cd-4566-a51f-9e1b3e6768d4_262c3452-0769-4d6f-8091-7bbf164a7d34",
+                "CaseTypeName": "Building (R) - Demolition-To Slab",
+                "CategoryObjectId": 0,
+                "CategoryObjectName": "PLAN",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "08d52f11-d7cd-4566-a51f-9e1b3e6768d4_fbf3245d-936c-41ac-9262-735fff99872f",
+                "CaseTypeName": "Building (R) - Demolition-Total",
+                "CategoryObjectId": 0,
+                "CategoryObjectName": "PLAN",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "08d52f11-d7cd-4566-a51f-9e1b3e6768d4_883d977c-0c30-062e-8a5a-6c45e3249704",
+                "CaseTypeName": "Building (R) - Detached Accessory Structure",
+                "CategoryObjectId": 0,
+                "CategoryObjectName": "PLAN",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "08d52f11-d7cd-4566-a51f-9e1b3e6768d4_371c6188-90dd-4124-b3d6-7af13419e935",
+                "CaseTypeName": "Building (R) - Fence or Retaining Wall",
+                "CategoryObjectId": 0,
+                "CategoryObjectName": "PLAN",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "08d52f11-d7cd-4566-a51f-9e1b3e6768d4_bce0c111-01ec-4bd5-a2b2-abeabf891764",
+                "CaseTypeName": "Building (R) - Mobile Units",
+                "CategoryObjectId": 0,
+                "CategoryObjectName": "PLAN",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "08d52f11-d7cd-4566-a51f-9e1b3e6768d4_dbecccd5-23a9-4a72-8383-df5e8626242c",
+                "CaseTypeName": "Building (R) - Modular Units",
+                "CategoryObjectId": 0,
+                "CategoryObjectName": "PLAN",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "08d52f11-d7cd-4566-a51f-9e1b3e6768d4_e2498a3d-ebe2-4f0d-97fb-3d88aae3c501",
+                "CaseTypeName": "Building (R) - New",
+                "CategoryObjectId": 0,
+                "CategoryObjectName": "PLAN",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "08d52f11-d7cd-4566-a51f-9e1b3e6768d4_0d6abfc1-c72c-4e58-806d-9cec9feee67a",
+                "CaseTypeName": "Building (R) - Renovation",
+                "CategoryObjectId": 0,
+                "CategoryObjectName": "PLAN",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "08d52f11-d7cd-4566-a51f-9e1b3e6768d4_33ec8cb2-d782-4251-b7f7-c8b25ef97b50",
+                "CaseTypeName": "Building (R) - Revised Plans",
+                "CategoryObjectId": 0,
+                "CategoryObjectName": "PLAN",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "08d52f11-d7cd-4566-a51f-9e1b3e6768d4_4b22dc5b-adbe-4dd6-be74-86f12b00c385",
+                "CaseTypeName": "Building (R) - Swimming Pool",
+                "CategoryObjectId": 0,
+                "CategoryObjectName": "PLAN",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "4cc2a3e0-d044-400d-98a7-12843b32868e_378876af-3cad-456f-aa0a-158302b0aa88",
+                "CaseTypeName": "Building (R) - Vinyl Siding",
+                "CategoryObjectId": 0,
+                "CategoryObjectName": "PERMIT",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "08d52f11-d7cd-4566-a51f-9e1b3e6768d4_4e9b13a9-0117-44d4-8d93-41c10ca981b6",
+                "CaseTypeName": "Building (R) - Vinyl Siding",
+                "CategoryObjectId": 0,
+                "CategoryObjectName": "PLAN",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "cfe88f31-eff0-4e04-a1c9-c1b74bdc7e18_e553a6ad-9432-4c77-9325-6e4c9ef58e6f",
+                "CaseTypeName": "Burial Ground Development - New",
+                "CategoryObjectId": 0,
+                "CategoryObjectName": "PERMIT",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "da71b41b-ea03-4d1d-93a0-b7fa70e1062d_4f020a07-e592-48ce-aac7-328ffef26ea1",
+                "CaseTypeName": "Business Approval - Mobile Food Service Units ",
+                "CategoryObjectId": 0,
+                "CategoryObjectName": "PLAN",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "da71b41b-ea03-4d1d-93a0-b7fa70e1062d_9cb985b9-a135-40b5-9284-6732b88023da",
+                "CaseTypeName": "Business Approval - Short-term Rental",
+                "CategoryObjectId": 0,
+                "CategoryObjectName": "PLAN",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "f763ed54-5511-420e-8e02-34e5960078ee_97b07c98-471b-48a7-8b1f-ee27458a7990",
+                "CaseTypeName": "Click to Enter Permit - All-inclusive",
+                "CategoryObjectId": 0,
+                "CategoryObjectName": "PERMIT",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "2257f88f-845e-4f0c-864a-889d4e993575_bb0c7b34-7510-a7fe-94a2-7ac77d13a12a",
+                "CaseTypeName": "COA - Ardmore",
+                "CategoryObjectId": 0,
+                "CategoryObjectName": "PLAN",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "2257f88f-845e-4f0c-864a-889d4e993575_38f976bc-3d96-4aa1-b017-bc330b864288",
+                "CaseTypeName": "COA - Ardsley Park",
+                "CategoryObjectId": 0,
+                "CategoryObjectName": "PLAN",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "2257f88f-845e-4f0c-864a-889d4e993575_88662e58-9a11-f285-f91f-c7f729ee7779",
+                "CaseTypeName": "COA - Carver Village",
+                "CategoryObjectId": 0,
+                "CategoryObjectName": "PLAN",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "2257f88f-845e-4f0c-864a-889d4e993575_2cacc50b-a316-49d6-bd45-592003b7bc03",
+                "CaseTypeName": "COA - Cuyler-Brownville",
+                "CategoryObjectId": 0,
+                "CategoryObjectName": "PLAN",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "2257f88f-845e-4f0c-864a-889d4e993575_7d4cdfc7-0b35-4f70-9077-7a3dc75c8d77",
+                "CaseTypeName": "COA - HDBR",
+                "CategoryObjectId": 0,
+                "CategoryObjectName": "PLAN",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "2257f88f-845e-4f0c-864a-889d4e993575_7598ed4a-8822-b88a-ce7c-bc19fd99eace",
+                "CaseTypeName": "COA - Parkside",
+                "CategoryObjectId": 0,
+                "CategoryObjectName": "PLAN",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "2257f88f-845e-4f0c-864a-889d4e993575_ab033ea2-0dd2-48c5-8563-3966ae9acd91",
+                "CaseTypeName": "COA - Streetcar",
+                "CategoryObjectId": 0,
+                "CategoryObjectName": "PLAN",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "2257f88f-845e-4f0c-864a-889d4e993575_925742ea-f0a6-4983-a1c9-9c96833f8aae",
+                "CaseTypeName": "COA - Victorian",
+                "CategoryObjectId": 0,
+                "CategoryObjectName": "PLAN",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "e15b9467-eb18-4a55-814a-6cea821d405f_e2498a3d-ebe2-4f0d-97fb-3d88aae3c501",
+                "CaseTypeName": "Code Intrepretation Request - New",
+                "CategoryObjectId": 0,
+                "CategoryObjectName": "PLAN",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "3de758c7-ac14-46c1-861e-7b98e2dcdb11_7029aa3f-b15c-4904-9e06-4ad17536888f",
+                "CaseTypeName": "Commercial Building Addition",
+                "CategoryObjectId": 1,
+                "CategoryObjectName": "PERMIT",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "3de758c7-ac14-46c1-861e-7b98e2dcdb11_67f09ff5-5776-4231-baf9-cd70748f66dd",
+                "CaseTypeName": "Commercial Building Renovation",
+                "CategoryObjectId": 1,
+                "CategoryObjectName": "PERMIT",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "3de758c7-ac14-46c1-861e-7b98e2dcdb11_b538bb1a-87d7-4d69-8b24-ee48bd57c8c9",
+                "CaseTypeName": "Commercial Complete Demolition",
+                "CategoryObjectId": 1,
+                "CategoryObjectName": "PERMIT",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "3de758c7-ac14-46c1-861e-7b98e2dcdb11_e5174a8b-9813-4b08-8473-f488d09d1802",
+                "CaseTypeName": "Commercial Demolition to Slab",
+                "CategoryObjectId": 1,
+                "CategoryObjectName": "PERMIT",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "c3c49a08-7e30-436a-9a68-7da0472d63d2_c0e307a5-4820-46d6-8ef1-cccfed323d54",
+                "CaseTypeName": "Commercial Electrical Stand Alone",
+                "CategoryObjectId": 1,
+                "CategoryObjectName": "PERMIT",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "3de758c7-ac14-46c1-861e-7b98e2dcdb11_5bb99599-3432-4d50-bbe5-436f20072522",
+                "CaseTypeName": "Commercial Exterior Demolition",
+                "CategoryObjectId": 1,
+                "CategoryObjectName": "PERMIT",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "3de758c7-ac14-46c1-861e-7b98e2dcdb11_dabb60c8-a207-4947-91c3-9f658caf23fd",
+                "CaseTypeName": "Commercial Fence or Retaining Wall",
+                "CategoryObjectId": 1,
+                "CategoryObjectName": "PERMIT",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "3de758c7-ac14-46c1-861e-7b98e2dcdb11_0bd6c1e1-ca99-44cb-9929-f90d55b4860c",
+                "CaseTypeName": "Commercial Interior Demolition",
+                "CategoryObjectId": 1,
+                "CategoryObjectName": "PERMIT",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "6d226f6a-25b1-4baf-97e3-31e2e158b66f_c0e307a5-4820-46d6-8ef1-cccfed323d54",
+                "CaseTypeName": "Commercial Mechanical Stand Alone",
+                "CategoryObjectId": 1,
+                "CategoryObjectName": "PERMIT",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "3de758c7-ac14-46c1-861e-7b98e2dcdb11_b7741906-53fa-46c9-8567-1c220fef61d8",
+                "CaseTypeName": "Commercial Mobile Units",
+                "CategoryObjectId": 1,
+                "CategoryObjectName": "PERMIT",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "3de758c7-ac14-46c1-861e-7b98e2dcdb11_4c5ea323-1a40-4148-be30-e2b3cff9d61c",
+                "CaseTypeName": "Commercial Modular Units",
+                "CategoryObjectId": 1,
+                "CategoryObjectName": "PERMIT",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "ffd3fce9-b585-40c4-a23f-735592be9f19_c0e307a5-4820-46d6-8ef1-cccfed323d54",
+                "CaseTypeName": "Commercial Plumbing Stand Alone",
+                "CategoryObjectId": 1,
+                "CategoryObjectName": "PERMIT",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "3de758c7-ac14-46c1-861e-7b98e2dcdb11_90a65488-5b75-46d8-a57a-f004a7745e58",
+                "CaseTypeName": "Commercial Swimming Pool",
+                "CategoryObjectId": 1,
+                "CategoryObjectName": "PERMIT",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "3782939d-b1af-4607-9202-1fd5d7064173_84c0ccea-3efc-4120-8ec6-7a3775d31dc1",
+                "CaseTypeName": "Comprehensive Plan Amendment - Future Development Map Amendments ",
+                "CategoryObjectId": 0,
+                "CategoryObjectName": "PLAN",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "3782939d-b1af-4607-9202-1fd5d7064173_9de2529d-4bd9-49c4-8733-e9c9599622e9",
+                "CaseTypeName": "Comprehensive Plan Amendment - Text Amendment",
+                "CategoryObjectId": 0,
+                "CategoryObjectName": "PLAN",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "a0285ce2-0f88-4a70-adb4-fa743cb15086_e2498a3d-ebe2-4f0d-97fb-3d88aae3c501",
+                "CaseTypeName": "Development of Regional Impact - New",
+                "CategoryObjectId": 0,
+                "CategoryObjectName": "PLAN",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "192ee5ce-622c-4ebc-bcbd-c9fdc9f6eda3_27e6aed4-298b-489a-86b5-f9fc485e696b",
+                "CaseTypeName": "Driveway / Curbcut - Commercial Driveway",
+                "CategoryObjectId": 0,
+                "CategoryObjectName": "PERMIT",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "192ee5ce-622c-4ebc-bcbd-c9fdc9f6eda3_230fd444-25e9-48e1-9b04-1e5e24335b9c",
+                "CaseTypeName": "Driveway / Curbcut - Residential Driveway",
+                "CategoryObjectId": 0,
+                "CategoryObjectName": "PERMIT",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "98d68ae7-b444-4986-b834-6588f596087d_c7bf0914-d47c-4cb0-a997-1b252d261634",
+                "CaseTypeName": "Dumpster/Container - Container",
+                "CategoryObjectId": 0,
+                "CategoryObjectName": "PERMIT",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "98d68ae7-b444-4986-b834-6588f596087d_2c37ab33-a329-4f83-aa25-6da7723c7933",
+                "CaseTypeName": "Dumpster/Container - Dumpster",
+                "CategoryObjectId": 0,
+                "CategoryObjectName": "PERMIT",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "c3c49a08-7e30-436a-9a68-7da0472d63d2_97b07c98-471b-48a7-8b1f-ee27458a7990",
+                "CaseTypeName": "Electrical (C) - All-inclusive",
+                "CategoryObjectId": 0,
+                "CategoryObjectName": "PERMIT",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "c80b3042-9e6d-4059-b3cb-4f4c8a662a8b_8bf0ee9b-c938-4332-8b55-88c737dfaa71",
+                "CaseTypeName": "Electrical (C) - Standalone",
+                "CategoryObjectId": 0,
+                "CategoryObjectName": "PLAN",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "c3c49a08-7e30-436a-9a68-7da0472d63d2_038c2cab-9121-4671-9d07-47ecccc6b794",
+                "CaseTypeName": "Electrical (C) - Temporary",
+                "CategoryObjectId": 0,
+                "CategoryObjectName": "PERMIT",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "ac1a5bf7-a0d3-4d58-aa20-bfe8dd22d1e5_97b07c98-471b-48a7-8b1f-ee27458a7990",
+                "CaseTypeName": "Electrical (R) - All-inclusive",
+                "CategoryObjectId": 0,
+                "CategoryObjectName": "PERMIT",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "4bae2425-759f-4916-91e6-852f05dff7f5_8bf0ee9b-c938-4332-8b55-88c737dfaa71",
+                "CaseTypeName": "Electrical (R) - Standalone",
+                "CategoryObjectId": 0,
+                "CategoryObjectName": "PLAN",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "ac1a5bf7-a0d3-4d58-aa20-bfe8dd22d1e5_038c2cab-9121-4671-9d07-47ecccc6b794",
+                "CaseTypeName": "Electrical (R) - Temporary",
+                "CategoryObjectId": 0,
+                "CategoryObjectName": "PERMIT",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "3aa67242-f69b-4854-9995-4c5f0ca43b36_97b07c98-471b-48a7-8b1f-ee27458a7990",
+                "CaseTypeName": "Emergency Radio Communication - All-inclusive",
+                "CategoryObjectId": 0,
+                "CategoryObjectName": "PERMIT",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "40c7d2bb-ac1d-4b5f-8334-a549ae436486_28b29518-aa4b-473b-8a4f-56b1ac6d499a",
+                "CaseTypeName": "Environmental – NEPA - Section 106 – Historic Preservation",
+                "CategoryObjectId": 0,
+                "CategoryObjectName": "PLAN",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "3ebe9268-812d-426e-bdfe-474418a041a3_690ce5c4-a398-4415-98d9-39139a01b690",
+                "CaseTypeName": "Film Permit - Professional",
+                "CategoryObjectId": 0,
+                "CategoryObjectName": "PERMIT",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "3ebe9268-812d-426e-bdfe-474418a041a3_488a3de8-ded3-4795-b1af-90f32c792f7a",
+                "CaseTypeName": "Film Permit - Student",
+                "CategoryObjectId": 0,
+                "CategoryObjectName": "PERMIT",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "86ebf464-51fe-4355-bedd-e555203bc20e_26c7653f-083b-4b87-8943-bfc96f3f8d76",
+                "CaseTypeName": "Freestanding Sign",
+                "CategoryObjectId": 1,
+                "CategoryObjectName": "PERMIT",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "e4220702-d239-415d-b4ea-3af795472793_97b07c98-471b-48a7-8b1f-ee27458a7990",
+                "CaseTypeName": "Gas Detection System Permit - All-inclusive",
+                "CategoryObjectId": 0,
+                "CategoryObjectName": "PERMIT",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "59f624c6-fbf2-423c-af6f-3b84eb28aa34_c7ac6ab7-e72f-48d2-b637-2bac8239d81a",
+                "CaseTypeName": "Historical Marker - Private",
+                "CategoryObjectId": 0,
+                "CategoryObjectName": "PLAN",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "59f624c6-fbf2-423c-af6f-3b84eb28aa34_e3570eda-1b55-4a62-8d4c-494371c4f749",
+                "CaseTypeName": "Historical Marker - Public",
+                "CategoryObjectId": 0,
+                "CategoryObjectName": "PLAN",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "ea2a51ae-09c4-43ab-9161-7e314661398a_b4dc58e1-a5ac-4908-8c59-86ccbd5d3e5f",
+                "CaseTypeName": "Major Subdivision Plat",
+                "CategoryObjectId": 2,
+                "CategoryObjectName": "PLAN",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "331300c0-92e0-4836-a35c-419b50d69ac9_e8bd20b4-4c3a-4179-8480-c84869a75e0f",
+                "CaseTypeName": "Master Home Plan - Residential",
+                "CategoryObjectId": 0,
+                "CategoryObjectName": "PLAN",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "335c28ab-ee50-41f3-9cfd-7b4462832f11_173097b5-31cd-49c8-b52c-7b7c2ec2cb51",
+                "CaseTypeName": "Master Plan Site - Master Plan",
+                "CategoryObjectId": 0,
+                "CategoryObjectName": "PLAN",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "6d226f6a-25b1-4baf-97e3-31e2e158b66f_97b07c98-471b-48a7-8b1f-ee27458a7990",
+                "CaseTypeName": "Mechanical (C) - All-inclusive",
+                "CategoryObjectId": 0,
+                "CategoryObjectName": "PERMIT",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "c67a1353-0161-44a6-817c-15ac078e3642_8bf0ee9b-c938-4332-8b55-88c737dfaa71",
+                "CaseTypeName": "Mechanical (C) - Standalone",
+                "CategoryObjectId": 0,
+                "CategoryObjectName": "PLAN",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "7e82236b-9eb4-4aec-8c7c-a28779fad5ee_97b07c98-471b-48a7-8b1f-ee27458a7990",
+                "CaseTypeName": "Mechanical (R) - All-inclusive",
+                "CategoryObjectId": 0,
+                "CategoryObjectName": "PERMIT",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "d490c16c-0e81-494f-b0dd-f36b0d8fcf46_8bf0ee9b-c938-4332-8b55-88c737dfaa71",
+                "CaseTypeName": "Mechanical (R) - Standalone",
+                "CategoryObjectId": 0,
+                "CategoryObjectName": "PLAN",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "ea2a51ae-09c4-43ab-9161-7e314661398a_4a021524-ea35-42db-93f3-c7df5ab263d1",
+                "CaseTypeName": "Minor Revision to Recorded Plat",
+                "CategoryObjectId": 2,
+                "CategoryObjectName": "PLAN",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "ea2a51ae-09c4-43ab-9161-7e314661398a_9a780a4b-1840-49f9-9183-23e381a15dfb",
+                "CaseTypeName": "Minor Subdivision Plat",
+                "CategoryObjectId": 2,
+                "CategoryObjectName": "PLAN",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "86efbb05-114b-4752-9ac5-42c3474e6799_e7b960c2-41db-4037-9fe5-9488e0d201f3",
+                "CaseTypeName": "Mobile Food Service Unit - Master MFSU Plan",
+                "CategoryObjectId": 0,
+                "CategoryObjectName": "PLAN",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "86efbb05-114b-4752-9ac5-42c3474e6799_c7ac6ab7-e72f-48d2-b637-2bac8239d81a",
+                "CaseTypeName": "Mobile Food Service Unit - Private",
+                "CategoryObjectId": 0,
+                "CategoryObjectName": "PLAN",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "86efbb05-114b-4752-9ac5-42c3474e6799_e3570eda-1b55-4a62-8d4c-494371c4f749",
+                "CaseTypeName": "Mobile Food Service Unit - Public",
+                "CategoryObjectId": 0,
+                "CategoryObjectName": "PLAN",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "3b37a6b0-3486-4daf-a10f-270f12b7cbb6_c7ac6ab7-e72f-48d2-b637-2bac8239d81a",
+                "CaseTypeName": "Monument - Private",
+                "CategoryObjectId": 0,
+                "CategoryObjectName": "PLAN",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "3b37a6b0-3486-4daf-a10f-270f12b7cbb6_e3570eda-1b55-4a62-8d4c-494371c4f749",
+                "CaseTypeName": "Monument - Public",
+                "CategoryObjectId": 0,
+                "CategoryObjectName": "PLAN",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "05cfab96-5cd0-41c1-a8ea-afddcfcbc17c_cdce64bd-9d08-40f0-a4a5-cf70f0b2e4a7",
+                "CaseTypeName": "New Antenna Tower",
+                "CategoryObjectId": 1,
+                "CategoryObjectName": "PERMIT",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "3de758c7-ac14-46c1-861e-7b98e2dcdb11_e553a6ad-9432-4c77-9325-6e4c9ef58e6f",
+                "CaseTypeName": "New Commercial Building",
+                "CategoryObjectId": 1,
+                "CategoryObjectName": "PERMIT",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "4cc2a3e0-d044-400d-98a7-12843b32868e_e553a6ad-9432-4c77-9325-6e4c9ef58e6f",
+                "CaseTypeName": "New Residential Building",
+                "CategoryObjectId": 1,
+                "CategoryObjectName": "PERMIT",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "a513cf1c-65f0-440b-a906-907cc7fbb5f4_e2498a3d-ebe2-4f0d-97fb-3d88aae3c501",
+                "CaseTypeName": "Open Records Request - New",
+                "CategoryObjectId": 0,
+                "CategoryObjectName": "PLAN",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "ea2a51ae-09c4-43ab-9161-7e314661398a_964cd647-f2ff-473d-829a-a10ead477024",
+                "CaseTypeName": "Outside City Limits",
+                "CategoryObjectId": 2,
+                "CategoryObjectName": "PLAN",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "c0ed4c99-d2dc-44ba-9789-dfcc88f16456_3ef776d1-bf84-46ee-9e26-6ca3dc99143a",
+                "CaseTypeName": "Oversize - Load/Move",
+                "CategoryObjectId": 0,
+                "CategoryObjectName": "PERMIT",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "e6c23dd1-b74e-4ad6-89e8-5aec83c25939_9aa10536-5dbf-49fa-a90c-6d3e98a27e49",
+                "CaseTypeName": "Petition - Encroachment",
+                "CategoryObjectId": 0,
+                "CategoryObjectName": "PLAN",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "e6c23dd1-b74e-4ad6-89e8-5aec83c25939_2dff5c98-53c2-49c5-b5e3-2a6c704b5bee",
+                "CaseTypeName": "Petition - Surplus Property",
+                "CategoryObjectId": 0,
+                "CategoryObjectName": "PLAN",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "ea2a51ae-09c4-43ab-9161-7e314661398a_3eaeddca-001d-4653-9059-67c641599e66",
+                "CaseTypeName": "Plat Easement",
+                "CategoryObjectId": 2,
+                "CategoryObjectName": "PLAN",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "ffd3fce9-b585-40c4-a23f-735592be9f19_97b07c98-471b-48a7-8b1f-ee27458a7990",
+                "CaseTypeName": "Plumbing (C) - All-inclusive",
+                "CategoryObjectId": 0,
+                "CategoryObjectName": "PERMIT",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "ed6bbca7-301f-4cd0-87fb-dab0ef089cf2_8bf0ee9b-c938-4332-8b55-88c737dfaa71",
+                "CaseTypeName": "Plumbing (C) - Standalone",
+                "CategoryObjectId": 0,
+                "CategoryObjectName": "PLAN",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "b79626a0-76a2-4b7b-abbb-a680665b1f1e_97b07c98-471b-48a7-8b1f-ee27458a7990",
+                "CaseTypeName": "Plumbing (R) - All-inclusive",
+                "CategoryObjectId": 0,
+                "CategoryObjectName": "PERMIT",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "32680013-2c30-4cac-800b-5bc2ad5cc743_8bf0ee9b-c938-4332-8b55-88c737dfaa71",
+                "CaseTypeName": "Plumbing (R) - Standalone",
+                "CategoryObjectId": 0,
+                "CategoryObjectName": "PLAN",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "7b26085f-930e-467e-8a93-a04f08d407ad_c7ac6ab7-e72f-48d2-b637-2bac8239d81a",
+                "CaseTypeName": "Public Art - Private",
+                "CategoryObjectId": 0,
+                "CategoryObjectName": "PLAN",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "7b26085f-930e-467e-8a93-a04f08d407ad_e3570eda-1b55-4a62-8d4c-494371c4f749",
+                "CaseTypeName": "Public Art - Public",
+                "CategoryObjectId": 0,
+                "CategoryObjectName": "PLAN",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "ea2a51ae-09c4-43ab-9161-7e314661398a_85b4c5ad-2665-4dce-9e1e-82d193f5bdcd",
+                "CaseTypeName": "Recombination",
+                "CategoryObjectId": 2,
+                "CategoryObjectName": "PLAN",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "4cc2a3e0-d044-400d-98a7-12843b32868e_7029aa3f-b15c-4904-9e06-4ad17536888f",
+                "CaseTypeName": "Residential Building Addition",
+                "CategoryObjectId": 1,
+                "CategoryObjectName": "PERMIT",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "4cc2a3e0-d044-400d-98a7-12843b32868e_67f09ff5-5776-4231-baf9-cd70748f66dd",
+                "CaseTypeName": "Residential Building Renovations",
+                "CategoryObjectId": 1,
+                "CategoryObjectName": "PERMIT",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "4cc2a3e0-d044-400d-98a7-12843b32868e_216e445c-bdf6-43c5-a1bd-70dd484efbb8",
+                "CaseTypeName": "Residential Complete Demolition-DO NOT USE",
+                "CategoryObjectId": 1,
+                "CategoryObjectName": "PERMIT",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "ac1a5bf7-a0d3-4d58-aa20-bfe8dd22d1e5_c0e307a5-4820-46d6-8ef1-cccfed323d54",
+                "CaseTypeName": "Residential Electrical Stand Alone",
+                "CategoryObjectId": 1,
+                "CategoryObjectName": "PERMIT",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "4cc2a3e0-d044-400d-98a7-12843b32868e_5bb99599-3432-4d50-bbe5-436f20072522",
+                "CaseTypeName": "Residential Exterior Demolition",
+                "CategoryObjectId": 1,
+                "CategoryObjectName": "PERMIT",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "4cc2a3e0-d044-400d-98a7-12843b32868e_dabb60c8-a207-4947-91c3-9f658caf23fd",
+                "CaseTypeName": "Residential Fence or Retaining Wall",
+                "CategoryObjectId": 1,
+                "CategoryObjectName": "PERMIT",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "4cc2a3e0-d044-400d-98a7-12843b32868e_0bd6c1e1-ca99-44cb-9929-f90d55b4860c",
+                "CaseTypeName": "Residential Interior Demolition",
+                "CategoryObjectId": 1,
+                "CategoryObjectName": "PERMIT",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "4cc2a3e0-d044-400d-98a7-12843b32868e_b7741906-53fa-46c9-8567-1c220fef61d8",
+                "CaseTypeName": "Residential Mobile Units",
+                "CategoryObjectId": 1,
+                "CategoryObjectName": "PERMIT",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "4cc2a3e0-d044-400d-98a7-12843b32868e_4c5ea323-1a40-4148-be30-e2b3cff9d61c",
+                "CaseTypeName": "Residential Modular Units",
+                "CategoryObjectId": 1,
+                "CategoryObjectName": "PERMIT",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "b79626a0-76a2-4b7b-abbb-a680665b1f1e_c0e307a5-4820-46d6-8ef1-cccfed323d54",
+                "CaseTypeName": "Residential Plumbing Stand Alone",
+                "CategoryObjectId": 1,
+                "CategoryObjectName": "PERMIT",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "4cc2a3e0-d044-400d-98a7-12843b32868e_90a65488-5b75-46d8-a57a-f004a7745e58",
+                "CaseTypeName": "Residential Swimming Pool",
+                "CategoryObjectId": 1,
+                "CategoryObjectName": "PERMIT",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "0060272a-8007-472c-81ee-63f22d9155ee_e2498a3d-ebe2-4f0d-97fb-3d88aae3c501",
+                "CaseTypeName": "Revision to Recorded Plat - New",
+                "CategoryObjectId": 0,
+                "CategoryObjectName": "PLAN",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "1d182b16-6001-4bb2-9410-82b9dac85229_e4918523-7def-4059-a979-1aca78cdcd7b",
+                "CaseTypeName": "Right-of-Way(R1) - Other",
+                "CategoryObjectId": 0,
+                "CategoryObjectName": "PERMIT",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "a21c9c9b-b53f-41ba-8d2d-0dd052cdaa0f_c453ec02-9f5f-4709-94a0-0a691b595014",
+                "CaseTypeName": "Right-of-Way(R2) - Fiber/Cable/Conduit Installation-Repair",
+                "CategoryObjectId": 0,
+                "CategoryObjectName": "PERMIT",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "7e53cc33-62dd-4743-86e9-13770f1fc1bc_f62b4cfe-9574-4978-973b-c7524efd6c87",
+                "CaseTypeName": "Right-of-Way(R3) - Utility Installation-Repair",
+                "CategoryObjectId": 0,
+                "CategoryObjectName": "PERMIT",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "9d0b4f2d-4c82-4c2c-812f-acdde347a7e6_3ad22d5c-46a6-4e8b-b849-574468bba032",
+                "CaseTypeName": "Short-Term Vacation Rental (STVR)",
+                "CategoryObjectId": 1,
+                "CategoryObjectName": "PERMIT",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "86ebf464-51fe-4355-bedd-e555203bc20e_5ffe7300-1e72-4090-9d44-d62716a2b908",
+                "CaseTypeName": "Sign - Attached/Freestanding",
+                "CategoryObjectId": 0,
+                "CategoryObjectName": "PERMIT",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "86ebf464-51fe-4355-bedd-e555203bc20e_703b80da-8d12-402c-b9f6-a8a83db565d4",
+                "CaseTypeName": "Sign Attached to Building",
+                "CategoryObjectId": 1,
+                "CategoryObjectName": "PERMIT",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "e6a16e79-cf02-45aa-8607-803e899905f7_c53a528b-c698-4e36-8953-6e24cb003d9f",
+                "CaseTypeName": "Sign/Awning - Attached",
+                "CategoryObjectId": 0,
+                "CategoryObjectName": "PLAN",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "e6a16e79-cf02-45aa-8607-803e899905f7_b0030abd-222f-4c08-8c49-023ca6eaea69",
+                "CaseTypeName": "Sign/Awning - Attached/Freestanding",
+                "CategoryObjectId": 0,
+                "CategoryObjectName": "PLAN",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "e6a16e79-cf02-45aa-8607-803e899905f7_c50e1fe9-f4cf-4af6-90e5-dcb02ffad0ac",
+                "CaseTypeName": "Sign/Awning - Billboard",
+                "CategoryObjectId": 0,
+                "CategoryObjectName": "PLAN",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "e6a16e79-cf02-45aa-8607-803e899905f7_d0def63d-fa68-41e5-9f75-e992c159fc59",
+                "CaseTypeName": "Sign/Awning - Freestanding (on-site)",
+                "CategoryObjectId": 0,
+                "CategoryObjectName": "PLAN",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "e6a16e79-cf02-45aa-8607-803e899905f7_f2f69f1c-6c46-47bd-90ec-76580deb0cfa",
+                "CaseTypeName": "Sign/Awning - Temporary Sign/Banner",
+                "CategoryObjectId": 0,
+                "CategoryObjectName": "PLAN",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "52a4af5b-eac0-4f4e-ab7a-1cd959608f3a_7ca16188-390a-4d07-b680-6f9c4413cbff",
+                "CaseTypeName": "Site Close-Out - County",
+                "CategoryObjectId": 0,
+                "CategoryObjectName": "PLAN",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "52a4af5b-eac0-4f4e-ab7a-1cd959608f3a_63920b2b-7fdc-48f3-aeba-fddeaf107446",
+                "CaseTypeName": "Site Close-Out - Group Development",
+                "CategoryObjectId": 0,
+                "CategoryObjectName": "PLAN",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "52a4af5b-eac0-4f4e-ab7a-1cd959608f3a_c7ac6ab7-e72f-48d2-b637-2bac8239d81a",
+                "CaseTypeName": "Site Close-Out - Private",
+                "CategoryObjectId": 0,
+                "CategoryObjectName": "PLAN",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "52a4af5b-eac0-4f4e-ab7a-1cd959608f3a_bfb5d3ad-cef6-4da9-85f5-f0711a978463",
+                "CaseTypeName": "Site Close-Out - Subdivision",
+                "CategoryObjectId": 0,
+                "CategoryObjectName": "PLAN",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "97b9494b-e00a-491a-ba4c-b1c955ae1b95_63e97ae7-8ea0-49d2-9b05-c2249c5ffca0",
+                "CaseTypeName": "Site Development - Clearing and Grubbing",
+                "CategoryObjectId": 0,
+                "CategoryObjectName": "PERMIT",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "b0c3b760-6794-4dea-be1e-2d849362e3ef_0fcee58c-e52d-4c0b-a502-6915eb4b2f64",
+                "CaseTypeName": "Site Development - Clearing and Grubbing",
+                "CategoryObjectId": 0,
+                "CategoryObjectName": "PLAN",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "97b9494b-e00a-491a-ba4c-b1c955ae1b95_216e445c-bdf6-43c5-a1bd-70dd484efbb8",
+                "CaseTypeName": "Site Development - Clearing, Grading & Demolition",
+                "CategoryObjectId": 1,
+                "CategoryObjectName": "PERMIT",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "b0c3b760-6794-4dea-be1e-2d849362e3ef_1027dbd5-8cc7-4f57-a631-61d16a79cc4c",
+                "CaseTypeName": "Site Development - Demolition",
+                "CategoryObjectId": 0,
+                "CategoryObjectName": "PLAN",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "b0c3b760-6794-4dea-be1e-2d849362e3ef_82e4c703-27fe-435d-b929-b1d3b2846511",
+                "CaseTypeName": "Site Development - Field Change",
+                "CategoryObjectId": 0,
+                "CategoryObjectName": "PLAN",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "b0c3b760-6794-4dea-be1e-2d849362e3ef_10b76ee0-dad9-409f-b691-38ead37fe59a",
+                "CaseTypeName": "Site Development - Full Site",
+                "CategoryObjectId": 0,
+                "CategoryObjectName": "PLAN",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "97b9494b-e00a-491a-ba4c-b1c955ae1b95_9e87d7f7-0dfc-4b33-a810-4d8604e8f540",
+                "CaseTypeName": "Site Development - Full Site (Private)",
+                "CategoryObjectId": 1,
+                "CategoryObjectName": "PERMIT",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "97b9494b-e00a-491a-ba4c-b1c955ae1b95_c0c31b51-6cbd-4eb3-8c25-8447fe2c4430",
+                "CaseTypeName": "Site Development - Full Site-Group Development",
+                "CategoryObjectId": 0,
+                "CategoryObjectName": "PERMIT",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "97b9494b-e00a-491a-ba4c-b1c955ae1b95_044b997a-dba5-42aa-bbdd-09a94a8608a2",
+                "CaseTypeName": "Site Development - Government Full Site Projects",
+                "CategoryObjectId": 1,
+                "CategoryObjectName": "PERMIT",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "97b9494b-e00a-491a-ba4c-b1c955ae1b95_4ae736cf-f6ff-4010-a045-d22017e32a0d",
+                "CaseTypeName": "Site Development - Grading",
+                "CategoryObjectId": 1,
+                "CategoryObjectName": "PERMIT",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "b0c3b760-6794-4dea-be1e-2d849362e3ef_b72e5949-a8ff-4069-a551-4eb2c4261e98",
+                "CaseTypeName": "Site Development - Grading",
+                "CategoryObjectId": 0,
+                "CategoryObjectName": "PLAN",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "b0c3b760-6794-4dea-be1e-2d849362e3ef_6bf2cced-559f-45be-8a89-2d146e65cbfb",
+                "CaseTypeName": "Site Development - Local, State, Federal Government",
+                "CategoryObjectId": 0,
+                "CategoryObjectName": "PLAN",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "97b9494b-e00a-491a-ba4c-b1c955ae1b95_ab33c9cb-aea3-40c4-b0f3-b95ce2297942",
+                "CaseTypeName": "Site Development - Parking Lot Restriping",
+                "CategoryObjectId": 1,
+                "CategoryObjectName": "PERMIT",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "b0c3b760-6794-4dea-be1e-2d849362e3ef_5ec00da8-8766-4a41-929b-94a8cb1187b5",
+                "CaseTypeName": "Site Development - Parking Lot Restripping",
+                "CategoryObjectId": 0,
+                "CategoryObjectName": "PLAN",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "b0c3b760-6794-4dea-be1e-2d849362e3ef_a0f73ea1-f0bb-426c-a7aa-3d1101941e78",
+                "CaseTypeName": "Site Development - Plan Set Review",
+                "CategoryObjectId": 0,
+                "CategoryObjectName": "PLAN",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "97b9494b-e00a-491a-ba4c-b1c955ae1b95_67f09ff5-5776-4231-baf9-cd70748f66dd",
+                "CaseTypeName": "Site Development - Renovation",
+                "CategoryObjectId": 0,
+                "CategoryObjectName": "PERMIT",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "b0c3b760-6794-4dea-be1e-2d849362e3ef_0d6abfc1-c72c-4e58-806d-9cec9feee67a",
+                "CaseTypeName": "Site Development - Renovation",
+                "CategoryObjectId": 0,
+                "CategoryObjectName": "PLAN",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "b0c3b760-6794-4dea-be1e-2d849362e3ef_8a84a6fe-a83c-4f2d-a59d-df0df6085b22",
+                "CaseTypeName": "Site Development - Revised Site Plan",
+                "CategoryObjectId": 0,
+                "CategoryObjectName": "PLAN",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "97b9494b-e00a-491a-ba4c-b1c955ae1b95_d844b756-6fbe-4cbc-a534-5ae9179b32bd",
+                "CaseTypeName": "Site Development - Soil Remediation",
+                "CategoryObjectId": 0,
+                "CategoryObjectName": "PERMIT",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "b0c3b760-6794-4dea-be1e-2d849362e3ef_3df2b983-9969-4f76-a4c0-0b277749f52d",
+                "CaseTypeName": "Site Development - Soil Remediation",
+                "CategoryObjectId": 0,
+                "CategoryObjectName": "PLAN",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "97b9494b-e00a-491a-ba4c-b1c955ae1b95_5951dbc0-5da6-4051-9fcd-cfda2e117a60",
+                "CaseTypeName": "Site Development - Subdivision",
+                "CategoryObjectId": 1,
+                "CategoryObjectName": "PERMIT",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "97b9494b-e00a-491a-ba4c-b1c955ae1b95_9a6f4263-a99f-42f5-88df-834bda6e1bf1",
+                "CaseTypeName": "Site Development - Timbering",
+                "CategoryObjectId": 1,
+                "CategoryObjectName": "PERMIT",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "b0c3b760-6794-4dea-be1e-2d849362e3ef_7882dfa3-657c-447e-88b0-cf39f93a75b0",
+                "CaseTypeName": "Site Development - Timbering",
+                "CategoryObjectId": 0,
+                "CategoryObjectName": "PLAN",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "97b9494b-e00a-491a-ba4c-b1c955ae1b95_47d564ab-8737-4d1b-a04c-7993515c4573",
+                "CaseTypeName": "Site Development - Water and Sewer",
+                "CategoryObjectId": 1,
+                "CategoryObjectName": "PERMIT",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "b0c3b760-6794-4dea-be1e-2d849362e3ef_feb39e71-691e-4c0d-b7a8-5156b510379d",
+                "CaseTypeName": "Site Development - Water and Sewer",
+                "CategoryObjectId": 0,
+                "CategoryObjectName": "PLAN",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "97b9494b-e00a-491a-ba4c-b1c955ae1b95_0cefde72-357a-418f-89aa-bbc2b3f61499",
+                "CaseTypeName": "Site Development - Wireless Telecom Facility",
+                "CategoryObjectId": 0,
+                "CategoryObjectName": "PERMIT",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "b0c3b760-6794-4dea-be1e-2d849362e3ef_3592fa2f-d2f0-4c0f-875e-f1a5b5b141af",
+                "CaseTypeName": "Site Development - WTF - Co-locate",
+                "CategoryObjectId": 0,
+                "CategoryObjectName": "PLAN",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "b0c3b760-6794-4dea-be1e-2d849362e3ef_3802ea28-ca20-4b6f-b429-de65d616e822",
+                "CaseTypeName": "Site Development - WTF - COW",
+                "CategoryObjectId": 0,
+                "CategoryObjectName": "PLAN",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "b0c3b760-6794-4dea-be1e-2d849362e3ef_fb58b932-167a-4dd4-8e25-eb59489bd30f",
+                "CaseTypeName": "Site Development - WTF - New Tower",
+                "CategoryObjectId": 0,
+                "CategoryObjectName": "PLAN",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "c1f3a9d1-bdb7-4a14-a95f-c10ed33418ea_4bd55933-e724-4106-99a3-cec7d9522e85",
+                "CaseTypeName": "Site Evaluation - N/A",
+                "CategoryObjectId": 0,
+                "CategoryObjectName": "PLAN",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "ff7a7f6c-00f1-3995-1aed-9aa8ad6f342b_529de46b-0c3d-21cb-b2a4-22de2283f90d",
+                "CaseTypeName": "Solar Panel (C) - Ground",
+                "CategoryObjectId": 0,
+                "CategoryObjectName": "PLAN",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "ff7a7f6c-00f1-3995-1aed-9aa8ad6f342b_0d6abfc1-c72c-4e58-806d-9cec9feee67a",
+                "CaseTypeName": "Solar Panel (C) - Renovation",
+                "CategoryObjectId": 0,
+                "CategoryObjectName": "PLAN",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "ff7a7f6c-00f1-3995-1aed-9aa8ad6f342b_ffe5d2ca-fc58-e755-2067-b6b1acad0eed",
+                "CaseTypeName": "Solar Panel (C) - Rooftop",
+                "CategoryObjectId": 0,
+                "CategoryObjectName": "PLAN",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "2fe91aae-f521-7d7f-671d-e900d8d9649d_529de46b-0c3d-21cb-b2a4-22de2283f90d",
+                "CaseTypeName": "Solar Panel (R) - Ground",
+                "CategoryObjectId": 0,
+                "CategoryObjectName": "PLAN",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "2fe91aae-f521-7d7f-671d-e900d8d9649d_0d6abfc1-c72c-4e58-806d-9cec9feee67a",
+                "CaseTypeName": "Solar Panel (R) - Renovation",
+                "CategoryObjectId": 0,
+                "CategoryObjectName": "PLAN",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "2fe91aae-f521-7d7f-671d-e900d8d9649d_ffe5d2ca-fc58-e755-2067-b6b1acad0eed",
+                "CaseTypeName": "Solar Panel (R) - Rooftop",
+                "CategoryObjectId": 0,
+                "CategoryObjectName": "PLAN",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "66864bef-e77c-4b10-8289-c1e0717a1e5b_e2498a3d-ebe2-4f0d-97fb-3d88aae3c501",
+                "CaseTypeName": "Special Use - New",
+                "CategoryObjectId": 0,
+                "CategoryObjectName": "PLAN",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "5f59bf36-8ba4-4ede-a551-b87b0543c560_12a413d0-7627-4c07-af99-4aa3c97d8c8d",
+                "CaseTypeName": "SPR-Import - Final Plat",
+                "CategoryObjectId": 0,
+                "CategoryObjectName": "PLAN",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "30631344-7204-483b-8a9e-818f10be0ba3_c9f267a9-7a35-447c-b475-9acd5633e523",
+                "CaseTypeName": "SPR-Import - LDA/Site Dev",
+                "CategoryObjectId": 0,
+                "CategoryObjectName": "PERMIT",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "30631344-7204-483b-8a9e-818f10be0ba3_64389353-33b9-4625-9ed7-6a100588c5b7",
+                "CaseTypeName": "SPR-Import - Misc",
+                "CategoryObjectId": 0,
+                "CategoryObjectName": "PERMIT",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "30631344-7204-483b-8a9e-818f10be0ba3_dfd81b1c-7782-4155-856c-41dae07d9b7f",
+                "CaseTypeName": "SPR-Import - None",
+                "CategoryObjectId": 0,
+                "CategoryObjectName": "PERMIT",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "30631344-7204-483b-8a9e-818f10be0ba3_61172ca8-53f2-4902-b552-8289bce18597",
+                "CaseTypeName": "SPR-Import - Preliminary Plan",
+                "CategoryObjectId": 0,
+                "CategoryObjectName": "PERMIT",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "90e4816b-a9f0-41e1-ba9e-c7efed76f4da_762c9388-b9c5-4800-8382-6401e7ddee97",
+                "CaseTypeName": "Stand Pipe - Install",
+                "CategoryObjectId": 0,
+                "CategoryObjectName": "PERMIT",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "c4ec0b5d-cf60-4c36-aff5-4add4991d987_0fe5e815-2528-49e4-aa71-31f3c0450e5a",
+                "CaseTypeName": "Stand Pipe - Install",
+                "CategoryObjectId": 0,
+                "CategoryObjectName": "PLAN",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "90e4816b-a9f0-41e1-ba9e-c7efed76f4da_68c57a3b-d435-4132-a67f-752a80c70272",
+                "CaseTypeName": "Stand Pipe - Removal",
+                "CategoryObjectId": 0,
+                "CategoryObjectName": "PERMIT",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "c4ec0b5d-cf60-4c36-aff5-4add4991d987_4540de93-f7e9-4216-be88-373225c674c8",
+                "CaseTypeName": "Stand Pipe - Removal",
+                "CategoryObjectId": 0,
+                "CategoryObjectName": "PLAN",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "90e4816b-a9f0-41e1-ba9e-c7efed76f4da_201661e5-e5e2-47df-b834-9db07fb580f5",
+                "CaseTypeName": "Stand Pipe - Repair",
+                "CategoryObjectId": 0,
+                "CategoryObjectName": "PERMIT",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "fe944699-ee1a-4f23-938c-fde0231e9985_e553a6ad-9432-4c77-9325-6e4c9ef58e6f",
+                "CaseTypeName": "Temporary or Portable Storage Unit - New",
+                "CategoryObjectId": 0,
+                "CategoryObjectName": "PERMIT",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "93c1b2a2-d08f-41b6-ab24-96437c25a62e_e2498a3d-ebe2-4f0d-97fb-3d88aae3c501",
+                "CaseTypeName": "Temporary or Portable Storage Unit - New",
+                "CategoryObjectId": 0,
+                "CategoryObjectName": "PLAN",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "86ebf464-51fe-4355-bedd-e555203bc20e_038c2cab-9121-4671-9d07-47ecccc6b794",
+                "CaseTypeName": "Temporary Sign/Banner",
+                "CategoryObjectId": 1,
+                "CategoryObjectName": "PERMIT",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "d3107848-720d-479d-b285-2c58875327e7_e2498a3d-ebe2-4f0d-97fb-3d88aae3c501",
+                "CaseTypeName": "Temporary Use - New",
+                "CategoryObjectId": 0,
+                "CategoryObjectName": "PLAN",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "972eb733-13d0-4d2e-b3a6-61580863f5ed_e2498a3d-ebe2-4f0d-97fb-3d88aae3c501",
+                "CaseTypeName": "Temporary Vendor - New",
+                "CategoryObjectId": 0,
+                "CategoryObjectName": "PLAN",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "2380b5f5-1621-4e61-aff8-5d0b4c86996b_59858af9-f295-4d39-81e7-d490d796c804",
+                "CaseTypeName": "Traffic Import - Assembly",
+                "CategoryObjectId": 0,
+                "CategoryObjectName": "PERMIT",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "2380b5f5-1621-4e61-aff8-5d0b4c86996b_49daf4b4-dda7-4e32-900b-b973084f6f7d",
+                "CaseTypeName": "Traffic Import - Driveway",
+                "CategoryObjectId": 0,
+                "CategoryObjectName": "PERMIT",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "2380b5f5-1621-4e61-aff8-5d0b4c86996b_42fea755-be11-4d20-9b4c-064bee2f4955",
+                "CaseTypeName": "Traffic Import - Dumpster",
+                "CategoryObjectId": 0,
+                "CategoryObjectName": "PERMIT",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "2380b5f5-1621-4e61-aff8-5d0b4c86996b_3c2045fc-492d-4a94-b5bf-e699ae22394a",
+                "CaseTypeName": "Traffic Import - ROW",
+                "CategoryObjectId": 0,
+                "CategoryObjectName": "PERMIT",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "978fe2e6-effe-43ca-8ceb-e57478977867_7cbc2ac6-052d-4cdd-b290-1a83fcb9de64",
+                "CaseTypeName": "Underground Storage Tank - All",
+                "CategoryObjectId": 0,
+                "CategoryObjectName": "PLAN",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "a5e8b46e-40e8-4bb0-b03f-9efe4ddecb1d_a801cbd2-b3ad-47df-92a5-5f2247e5d2aa",
+                "CaseTypeName": "Underground Storage Tank - Monitoring Wells",
+                "CategoryObjectId": 0,
+                "CategoryObjectName": "PERMIT",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "a5e8b46e-40e8-4bb0-b03f-9efe4ddecb1d_12011479-ca7a-4fbe-ab23-46d11c4af2e3",
+                "CaseTypeName": "Underground Storage Tank - Supply Line Install/Replace",
+                "CategoryObjectId": 0,
+                "CategoryObjectName": "PERMIT",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "542df7f2-b477-4c95-badc-b62a975e0c9c_34cb60c2-5a68-4d0a-946b-d306bd1611e4",
+                "CaseTypeName": "VIPS Import - Alarm",
+                "CategoryObjectId": 0,
+                "CategoryObjectName": "PERMIT",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "b6bc8985-5c3f-437b-adc6-29e1999363ad_95719280-3f0d-48ef-af41-a8913ae5fe77",
+                "CaseTypeName": "VIPS Import - Alarm",
+                "CategoryObjectId": 0,
+                "CategoryObjectName": "PLAN",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "542df7f2-b477-4c95-badc-b62a975e0c9c_9e44b4ba-bba3-4705-84bb-c4d8e399a491",
+                "CaseTypeName": "VIPS Import - Alcoholic Beverage Sales",
+                "CategoryObjectId": 0,
+                "CategoryObjectName": "PERMIT",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "b6bc8985-5c3f-437b-adc6-29e1999363ad_7fd63f95-2d98-4c39-befc-b0df103fadf1",
+                "CaseTypeName": "VIPS Import - Alcoholic Beverage Sales",
+                "CategoryObjectId": 0,
+                "CategoryObjectName": "PLAN",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "542df7f2-b477-4c95-badc-b62a975e0c9c_ea108256-9b49-4c7e-8836-c1742033a058",
+                "CaseTypeName": "VIPS Import - Amusement",
+                "CategoryObjectId": 0,
+                "CategoryObjectName": "PERMIT",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "b6bc8985-5c3f-437b-adc6-29e1999363ad_b05153c1-1d45-4602-81e8-096f0ff0eb7b",
+                "CaseTypeName": "VIPS Import - Amusement",
+                "CategoryObjectId": 0,
+                "CategoryObjectName": "PLAN",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "542df7f2-b477-4c95-badc-b62a975e0c9c_dec3f678-939d-4dda-acd8-127fb31a710b",
+                "CaseTypeName": "VIPS Import - Antenna Tower",
+                "CategoryObjectId": 0,
+                "CategoryObjectName": "PERMIT",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "b6bc8985-5c3f-437b-adc6-29e1999363ad_a3573f63-450f-4758-820c-839ad21e6b0e",
+                "CaseTypeName": "VIPS Import - Antenna Tower",
+                "CategoryObjectId": 0,
+                "CategoryObjectName": "PLAN",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "542df7f2-b477-4c95-badc-b62a975e0c9c_02814165-1723-4edf-891b-2e3d6aad26f9",
+                "CaseTypeName": "VIPS Import - Business Tax",
+                "CategoryObjectId": 0,
+                "CategoryObjectName": "PERMIT",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "b6bc8985-5c3f-437b-adc6-29e1999363ad_babb4087-a51e-4f1e-8e83-9a9411ab290e",
+                "CaseTypeName": "VIPS Import - Business Tax",
+                "CategoryObjectId": 0,
+                "CategoryObjectName": "PLAN",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "542df7f2-b477-4c95-badc-b62a975e0c9c_a24c145b-1000-4043-baf8-71724cc5afd3",
+                "CaseTypeName": "VIPS Import - Church",
+                "CategoryObjectId": 0,
+                "CategoryObjectName": "PERMIT",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "b6bc8985-5c3f-437b-adc6-29e1999363ad_44a0f0f7-6b07-4c97-8436-50a0d4e21371",
+                "CaseTypeName": "VIPS Import - Church",
+                "CategoryObjectId": 0,
+                "CategoryObjectName": "PLAN",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "542df7f2-b477-4c95-badc-b62a975e0c9c_ff01dc8b-0cd6-4612-aafe-67379ecc9595",
+                "CaseTypeName": "VIPS Import - Commercial Alteration",
+                "CategoryObjectId": 0,
+                "CategoryObjectName": "PERMIT",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "b6bc8985-5c3f-437b-adc6-29e1999363ad_01924e13-f831-4b8d-9cd6-fcb736331cf4",
+                "CaseTypeName": "VIPS Import - Commercial Alteration",
+                "CategoryObjectId": 0,
+                "CategoryObjectName": "PLAN",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "542df7f2-b477-4c95-badc-b62a975e0c9c_d64147a4-b523-4ae6-bba5-653f67acd581",
+                "CaseTypeName": "VIPS Import - Commercial New",
+                "CategoryObjectId": 0,
+                "CategoryObjectName": "PERMIT",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "b6bc8985-5c3f-437b-adc6-29e1999363ad_c1719256-5c6c-49c5-8c14-70c25e239c26",
+                "CaseTypeName": "VIPS Import - Commercial New",
+                "CategoryObjectId": 0,
+                "CategoryObjectName": "PLAN",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "542df7f2-b477-4c95-badc-b62a975e0c9c_216e445c-bdf6-43c5-a1bd-70dd484efbb8",
+                "CaseTypeName": "VIPS Import - Demolition",
+                "CategoryObjectId": 0,
+                "CategoryObjectName": "PERMIT",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "b6bc8985-5c3f-437b-adc6-29e1999363ad_1027dbd5-8cc7-4f57-a631-61d16a79cc4c",
+                "CaseTypeName": "VIPS Import - Demolition",
+                "CategoryObjectId": 0,
+                "CategoryObjectName": "PLAN",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "542df7f2-b477-4c95-badc-b62a975e0c9c_2fb434c6-acaf-4d3c-8e01-6766db609e17",
+                "CaseTypeName": "VIPS Import - Educational Building",
+                "CategoryObjectId": 0,
+                "CategoryObjectName": "PERMIT",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "b6bc8985-5c3f-437b-adc6-29e1999363ad_f66ba94d-411d-47bf-8ab5-b161ab51e2ea",
+                "CaseTypeName": "VIPS Import - Educational Building",
+                "CategoryObjectId": 0,
+                "CategoryObjectName": "PLAN",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "542df7f2-b477-4c95-badc-b62a975e0c9c_cfa83d61-65b5-45fa-9254-c1d2adf6c4f2",
+                "CaseTypeName": "VIPS Import - Electrical",
+                "CategoryObjectId": 0,
+                "CategoryObjectName": "PERMIT",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "b6bc8985-5c3f-437b-adc6-29e1999363ad_6ab23bb4-c29d-4efc-9ca2-b56c3588b7cb",
+                "CaseTypeName": "VIPS Import - Electrical ",
+                "CategoryObjectId": 0,
+                "CategoryObjectName": "PLAN",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "542df7f2-b477-4c95-badc-b62a975e0c9c_082dbc05-5f5d-4a96-9b99-2a5681dcc977",
+                "CaseTypeName": "VIPS Import - Fence",
+                "CategoryObjectId": 0,
+                "CategoryObjectName": "PERMIT",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "b6bc8985-5c3f-437b-adc6-29e1999363ad_59d3f51c-3ff5-4f62-a710-e8fafca04b5e",
+                "CaseTypeName": "VIPS Import - Fence",
+                "CategoryObjectId": 0,
+                "CategoryObjectName": "PLAN",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "542df7f2-b477-4c95-badc-b62a975e0c9c_9ac5b1dc-cf06-41c5-96be-a8a10a839429",
+                "CaseTypeName": "VIPS Import - Hospital or Institutional",
+                "CategoryObjectId": 0,
+                "CategoryObjectName": "PERMIT",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "b6bc8985-5c3f-437b-adc6-29e1999363ad_6d6dea7a-c95f-48e0-a64b-f8d75ffa3515",
+                "CaseTypeName": "VIPS Import - Hospital or Institutional",
+                "CategoryObjectId": 0,
+                "CategoryObjectName": "PLAN",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "542df7f2-b477-4c95-badc-b62a975e0c9c_7a37de1b-d180-49a7-9b2b-818b8325a2b9",
+                "CaseTypeName": "VIPS Import - Hotel/Motel",
+                "CategoryObjectId": 0,
+                "CategoryObjectName": "PERMIT",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "b6bc8985-5c3f-437b-adc6-29e1999363ad_e9c20767-6b61-4b07-815c-ae3053e90a6c",
+                "CaseTypeName": "VIPS Import - Hotel/Motel",
+                "CategoryObjectId": 0,
+                "CategoryObjectName": "PLAN",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "542df7f2-b477-4c95-badc-b62a975e0c9c_6509122e-ff54-458f-b58f-5f3b7949f089",
+                "CaseTypeName": "VIPS Import - Industrial",
+                "CategoryObjectId": 0,
+                "CategoryObjectName": "PERMIT",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "b6bc8985-5c3f-437b-adc6-29e1999363ad_24a6e227-e1d4-42f9-9358-c43b903c1690",
+                "CaseTypeName": "VIPS Import - Industrial",
+                "CategoryObjectId": 0,
+                "CategoryObjectName": "PLAN",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "542df7f2-b477-4c95-badc-b62a975e0c9c_9443dee2-c922-4a20-964d-1d0abe63f2f4",
+                "CaseTypeName": "VIPS Import - Lawn Irrigation",
+                "CategoryObjectId": 0,
+                "CategoryObjectName": "PERMIT",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "542df7f2-b477-4c95-badc-b62a975e0c9c_59e7ff22-88e6-4d27-8be0-2a9156be0cb4",
+                "CaseTypeName": "VIPS Import - Manufactured Housing",
+                "CategoryObjectId": 0,
+                "CategoryObjectName": "PERMIT",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "b6bc8985-5c3f-437b-adc6-29e1999363ad_54ae404f-5a50-4ff3-8a4b-f514214d9158",
+                "CaseTypeName": "VIPS Import - Manufactured Housing",
+                "CategoryObjectId": 0,
+                "CategoryObjectName": "PLAN",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "542df7f2-b477-4c95-badc-b62a975e0c9c_6490ef9f-05f4-4129-945d-93515ce766d9",
+                "CaseTypeName": "VIPS Import - Mechanical",
+                "CategoryObjectId": 0,
+                "CategoryObjectName": "PERMIT",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "b6bc8985-5c3f-437b-adc6-29e1999363ad_bd4910d6-ea3f-4cf2-bd51-4eb2fa73a111",
+                "CaseTypeName": "VIPS Import - Mechanical",
+                "CategoryObjectId": 0,
+                "CategoryObjectName": "PLAN",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "542df7f2-b477-4c95-badc-b62a975e0c9c_482e540c-8e3b-467c-91a1-1918df3da622",
+                "CaseTypeName": "VIPS Import - One or Two Family Dwelling",
+                "CategoryObjectId": 0,
+                "CategoryObjectName": "PERMIT",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "b6bc8985-5c3f-437b-adc6-29e1999363ad_8e2b6ea0-f0b7-470a-b357-71795be1ad64",
+                "CaseTypeName": "VIPS Import - One or Two Family Dwelling",
+                "CategoryObjectId": 0,
+                "CategoryObjectName": "PLAN",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "542df7f2-b477-4c95-badc-b62a975e0c9c_a72b7f55-9b64-4b65-8916-0eefa804bd74",
+                "CaseTypeName": "VIPS Import - Plumbing",
+                "CategoryObjectId": 0,
+                "CategoryObjectName": "PERMIT",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "b6bc8985-5c3f-437b-adc6-29e1999363ad_f9e3503b-8758-469c-89f8-2d5a78457130",
+                "CaseTypeName": "VIPS Import - Plumbing",
+                "CategoryObjectId": 0,
+                "CategoryObjectName": "PLAN",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "542df7f2-b477-4c95-badc-b62a975e0c9c_94a749ae-a830-454f-888e-77a0cab9aa06",
+                "CaseTypeName": "VIPS Import - Residential Alteration",
+                "CategoryObjectId": 0,
+                "CategoryObjectName": "PERMIT",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "b6bc8985-5c3f-437b-adc6-29e1999363ad_9b4a9811-f8fc-411d-985c-95b4e6277c9a",
+                "CaseTypeName": "VIPS Import - Residential Alteration",
+                "CategoryObjectId": 0,
+                "CategoryObjectName": "PLAN",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "542df7f2-b477-4c95-badc-b62a975e0c9c_451db601-736d-4c3d-94d7-a6b0d46f32e2",
+                "CaseTypeName": "VIPS Import - Residential Condemned",
+                "CategoryObjectId": 0,
+                "CategoryObjectName": "PERMIT",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "b6bc8985-5c3f-437b-adc6-29e1999363ad_5ce0a28d-ea17-48d0-a2d6-442bbba3c500",
+                "CaseTypeName": "VIPS Import - Residential Condemned",
+                "CategoryObjectId": 0,
+                "CategoryObjectName": "PLAN",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "542df7f2-b477-4c95-badc-b62a975e0c9c_73af03c9-2de9-40b4-a82c-76768ca76d08",
+                "CaseTypeName": "VIPS Import - Residential New",
+                "CategoryObjectId": 0,
+                "CategoryObjectName": "PERMIT",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "b6bc8985-5c3f-437b-adc6-29e1999363ad_be7e9f13-74d3-42ce-bb4f-9913fcef6c02",
+                "CaseTypeName": "VIPS Import - Residential New",
+                "CategoryObjectId": 0,
+                "CategoryObjectName": "PLAN",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "542df7f2-b477-4c95-badc-b62a975e0c9c_ca892504-7aa5-492a-b8bf-e04afc892c1b",
+                "CaseTypeName": "VIPS Import - Sewer",
+                "CategoryObjectId": 0,
+                "CategoryObjectName": "PERMIT",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "b6bc8985-5c3f-437b-adc6-29e1999363ad_78822b49-17da-41fc-b93c-6aec59f188ad",
+                "CaseTypeName": "VIPS Import - Sewer",
+                "CategoryObjectId": 0,
+                "CategoryObjectName": "PLAN",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "542df7f2-b477-4c95-badc-b62a975e0c9c_fc2b8603-d7b7-4ee6-9e08-84b8c65fbce9",
+                "CaseTypeName": "VIPS Import - Sewer Cap",
+                "CategoryObjectId": 0,
+                "CategoryObjectName": "PERMIT",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "b6bc8985-5c3f-437b-adc6-29e1999363ad_4cacd772-992f-43c9-90cc-832b244eae6b",
+                "CaseTypeName": "VIPS Import - Sewer Cap",
+                "CategoryObjectId": 0,
+                "CategoryObjectName": "PLAN",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "542df7f2-b477-4c95-badc-b62a975e0c9c_4ccc9ac6-0605-4306-8ffc-004d8656fcc1",
+                "CaseTypeName": "VIPS Import - Sign",
+                "CategoryObjectId": 0,
+                "CategoryObjectName": "PERMIT",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "b6bc8985-5c3f-437b-adc6-29e1999363ad_e571648c-28d7-40dc-bf62-d361109e5385",
+                "CaseTypeName": "VIPS Import - Sign",
+                "CategoryObjectId": 0,
+                "CategoryObjectName": "PLAN",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "542df7f2-b477-4c95-badc-b62a975e0c9c_26e040f1-68ec-4049-bb87-cbff92c7a03c",
+                "CaseTypeName": "VIPS Import - Site Plan Review",
+                "CategoryObjectId": 0,
+                "CategoryObjectName": "PERMIT",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "b6bc8985-5c3f-437b-adc6-29e1999363ad_95fef6f0-266a-4a11-ab49-c6a2de07a3df",
+                "CaseTypeName": "VIPS Import - Site Plan Review",
+                "CategoryObjectId": 0,
+                "CategoryObjectName": "PLAN",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "b6bc8985-5c3f-437b-adc6-29e1999363ad_4c2cd4b1-9c50-440b-a2df-41e135f9402b",
+                "CaseTypeName": "VIPS Import - SPR Task",
+                "CategoryObjectId": 0,
+                "CategoryObjectName": "PLAN",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "542df7f2-b477-4c95-badc-b62a975e0c9c_c86c5bca-86fe-430e-b73d-ffdcabdc9e09",
+                "CaseTypeName": "VIPS Import - Sprinkler",
+                "CategoryObjectId": 0,
+                "CategoryObjectName": "PERMIT",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "b6bc8985-5c3f-437b-adc6-29e1999363ad_bbd1dd95-96f6-401d-8e91-9011d4a1f6ab",
+                "CaseTypeName": "VIPS Import - Sprinkler",
+                "CategoryObjectId": 0,
+                "CategoryObjectName": "PLAN",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "542df7f2-b477-4c95-badc-b62a975e0c9c_14ca1e3a-dc52-426e-9814-86068eac21bd",
+                "CaseTypeName": "VIPS Import - Stores or Mercantile",
+                "CategoryObjectId": 0,
+                "CategoryObjectName": "PERMIT",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "b6bc8985-5c3f-437b-adc6-29e1999363ad_195b824a-b7d3-4326-af37-6c0446722865",
+                "CaseTypeName": "VIPS Import - Stores or Mercantile",
+                "CategoryObjectId": 0,
+                "CategoryObjectName": "PLAN",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "b6bc8985-5c3f-437b-adc6-29e1999363ad_4233744e-14c7-4e00-873b-20ffbed9b118",
+                "CaseTypeName": "VIPS Import - Structure other than BLDG",
+                "CategoryObjectId": 0,
+                "CategoryObjectName": "PLAN",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "542df7f2-b477-4c95-badc-b62a975e0c9c_859c6e01-18c1-4106-a9e5-bb4f78563371",
+                "CaseTypeName": "VIPS Import - Structure Other Than Building",
+                "CategoryObjectId": 0,
+                "CategoryObjectName": "PERMIT",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "b6bc8985-5c3f-437b-adc6-29e1999363ad_c2638241-d788-43f7-bb86-01990812a4ea",
+                "CaseTypeName": "VIPS Import - Sub Division Mater Plans",
+                "CategoryObjectId": 0,
+                "CategoryObjectName": "PLAN",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "542df7f2-b477-4c95-badc-b62a975e0c9c_57026944-34f1-4989-aa4b-2b1afe016334",
+                "CaseTypeName": "VIPS Import - Subdivision Master Plans",
+                "CategoryObjectId": 0,
+                "CategoryObjectName": "PERMIT",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "542df7f2-b477-4c95-badc-b62a975e0c9c_5df06f38-48d8-41be-a086-2218f8e3314c",
+                "CaseTypeName": "VIPS Import - Surcharge",
+                "CategoryObjectId": 0,
+                "CategoryObjectName": "PERMIT",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "b6bc8985-5c3f-437b-adc6-29e1999363ad_64fb26fe-815c-4134-92dc-86d34541316c",
+                "CaseTypeName": "VIPS Import - Surcharge",
+                "CategoryObjectId": 0,
+                "CategoryObjectName": "PLAN",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "542df7f2-b477-4c95-badc-b62a975e0c9c_90a65488-5b75-46d8-a57a-f004a7745e58",
+                "CaseTypeName": "VIPS Import - Swimming Pool",
+                "CategoryObjectId": 0,
+                "CategoryObjectName": "PERMIT",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "b6bc8985-5c3f-437b-adc6-29e1999363ad_4b22dc5b-adbe-4dd6-be74-86f12b00c385",
+                "CaseTypeName": "VIPS Import - Swimming Pool",
+                "CategoryObjectId": 0,
+                "CategoryObjectName": "PLAN",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "542df7f2-b477-4c95-badc-b62a975e0c9c_d9941be4-7d56-4859-ac14-d836a8303767",
+                "CaseTypeName": "VIPS Import - Temporary Sign/Banner",
+                "CategoryObjectId": 0,
+                "CategoryObjectName": "PERMIT",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "b6bc8985-5c3f-437b-adc6-29e1999363ad_f2f69f1c-6c46-47bd-90ec-76580deb0cfa",
+                "CaseTypeName": "VIPS Import - Temporary Sign/Banner",
+                "CategoryObjectId": 0,
+                "CategoryObjectName": "PLAN",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "542df7f2-b477-4c95-badc-b62a975e0c9c_f740792c-e675-4ccb-a2b0-d3068b632219",
+                "CaseTypeName": "VIPS Import - Tours",
+                "CategoryObjectId": 0,
+                "CategoryObjectName": "PERMIT",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "b6bc8985-5c3f-437b-adc6-29e1999363ad_6831ee44-2ebf-433f-9bfb-0a5da6ab41ae",
+                "CaseTypeName": "VIPS Import - Tours",
+                "CategoryObjectId": 0,
+                "CategoryObjectName": "PLAN",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "542df7f2-b477-4c95-badc-b62a975e0c9c_9ad19f79-b6ed-4581-b806-370ce18a4606",
+                "CaseTypeName": "VIPS Import - Underground Tank",
+                "CategoryObjectId": 0,
+                "CategoryObjectName": "PERMIT",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "b6bc8985-5c3f-437b-adc6-29e1999363ad_2f00925d-60d0-40a6-8673-14dd7f5d1698",
+                "CaseTypeName": "VIPS Import - Underground Tank",
+                "CategoryObjectId": 0,
+                "CategoryObjectName": "PLAN",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "542df7f2-b477-4c95-badc-b62a975e0c9c_378876af-3cad-456f-aa0a-158302b0aa88",
+                "CaseTypeName": "VIPS Import - Vinyl Siding",
+                "CategoryObjectId": 0,
+                "CategoryObjectName": "PERMIT",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "b6bc8985-5c3f-437b-adc6-29e1999363ad_4e9b13a9-0117-44d4-8d93-41c10ca981b6",
+                "CaseTypeName": "VIPS Import - Vinyl Siding",
+                "CategoryObjectId": 0,
+                "CategoryObjectName": "PLAN",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "542df7f2-b477-4c95-badc-b62a975e0c9c_70f87334-a311-4e60-b987-2761c17b8155",
+                "CaseTypeName": "VIPS Import - VIPS",
+                "CategoryObjectId": 0,
+                "CategoryObjectName": "PERMIT",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "b6bc8985-5c3f-437b-adc6-29e1999363ad_78dc60a7-8a57-4857-a4b7-690f06bcf479",
+                "CaseTypeName": "VIPS Import - VIPS DS Plan",
+                "CategoryObjectId": 0,
+                "CategoryObjectName": "PLAN",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "542df7f2-b477-4c95-badc-b62a975e0c9c_3164fabd-51c6-48f7-b3ef-75c01d311b27",
+                "CaseTypeName": "VIPS Import - VIPS FD Permit",
+                "CategoryObjectId": 0,
+                "CategoryObjectName": "PERMIT",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "b6bc8985-5c3f-437b-adc6-29e1999363ad_bab7dd8b-bb30-43ad-a8d4-6d8742b7783e",
+                "CaseTypeName": "VIPS Import - VIPS FD Plan",
+                "CategoryObjectId": 0,
+                "CategoryObjectName": "PLAN",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "b6bc8985-5c3f-437b-adc6-29e1999363ad_4ae27cbb-b41f-46ae-955d-0e6000692f80",
+                "CaseTypeName": "VIPS Import - VIPS FI Plan",
+                "CategoryObjectId": 0,
+                "CategoryObjectName": "PLAN",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "542df7f2-b477-4c95-badc-b62a975e0c9c_b2c179c0-821a-4757-8fc2-4ac6b4dee9bb",
+                "CaseTypeName": "VIPS Import - VIPS FP Permit",
+                "CategoryObjectId": 0,
+                "CategoryObjectName": "PERMIT",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "542df7f2-b477-4c95-badc-b62a975e0c9c_b9851835-ba33-41d5-8f1c-794cdcb75ce5",
+                "CaseTypeName": "VIPS Import - VIPS Permit",
+                "CategoryObjectId": 0,
+                "CategoryObjectName": "PERMIT",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "b6bc8985-5c3f-437b-adc6-29e1999363ad_2cf3492d-152a-4371-9859-0bf0a1597437",
+                "CaseTypeName": "VIPS Import - VIPS Plan",
+                "CategoryObjectId": 0,
+                "CategoryObjectName": "PLAN",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "542df7f2-b477-4c95-badc-b62a975e0c9c_d592125f-efcd-40ad-ac46-d92c2e6d4504",
+                "CaseTypeName": "VIPS Import - VIPS SI Permit",
+                "CategoryObjectId": 0,
+                "CategoryObjectName": "PERMIT",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "542df7f2-b477-4c95-badc-b62a975e0c9c_273e4199-3580-4ccd-911c-36a9675b050c",
+                "CaseTypeName": "VIPS Import - Water",
+                "CategoryObjectId": 0,
+                "CategoryObjectName": "PERMIT",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "b6bc8985-5c3f-437b-adc6-29e1999363ad_f571998c-bbcf-4f1d-bd81-79700949d31f",
+                "CaseTypeName": "VIPS Import - Water",
+                "CategoryObjectId": 0,
+                "CategoryObjectName": "PLAN",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "542df7f2-b477-4c95-badc-b62a975e0c9c_a7f7c550-763a-496b-be23-f38c266c7a4b",
+                "CaseTypeName": "VIPS Import - Water Tap",
+                "CategoryObjectId": 0,
+                "CategoryObjectName": "PERMIT",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "b6bc8985-5c3f-437b-adc6-29e1999363ad_e5dfe6b1-f34e-4326-89a2-32aa1086a94f",
+                "CaseTypeName": "VIPS Import - Water Tap",
+                "CategoryObjectId": 0,
+                "CategoryObjectName": "PLAN",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "542df7f2-b477-4c95-badc-b62a975e0c9c_8b91b80f-37f1-4f78-b87e-ac87b58a9f8b",
+                "CaseTypeName": "VIPS Import - Water/Sewer Surcharge",
+                "CategoryObjectId": 0,
+                "CategoryObjectName": "PERMIT",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "b6bc8985-5c3f-437b-adc6-29e1999363ad_5d1e396d-bdcb-4a57-9d4f-8a2ad5742767",
+                "CaseTypeName": "VIPS Import - Water/Sewer Surcharge",
+                "CategoryObjectId": 0,
+                "CategoryObjectName": "PLAN",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "b6bc8985-5c3f-437b-adc6-29e1999363ad_5474967d-a89c-46cc-b7f3-1c22b038852e",
+                "CaseTypeName": "VIPS Import - ZBA",
+                "CategoryObjectId": 0,
+                "CategoryObjectName": "PLAN",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "542df7f2-b477-4c95-badc-b62a975e0c9c_88c1e13a-53a0-4a19-8def-621cb9fce4d9",
+                "CaseTypeName": "VIPS Import - Zoning",
+                "CategoryObjectId": 0,
+                "CategoryObjectName": "PERMIT",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "da1d4e4e-997f-4650-98ef-3d018bf8972d_feb39e71-691e-4c0d-b7a8-5156b510379d",
+                "CaseTypeName": "Water and Sewer - Water and Sewer",
+                "CategoryObjectId": 0,
+                "CategoryObjectName": "PLAN",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "224b1aff-286a-486d-bd13-fed0d62a041e_771f16b3-2668-4e3b-aa92-9d2134a18947",
+                "CaseTypeName": "Wireless Telecom Facility - Co-location",
+                "CategoryObjectId": 0,
+                "CategoryObjectName": "PERMIT",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "80a2f49b-7e59-4bab-9e44-da357be41d3d_d2b86864-05d7-4254-8b3d-7f4b61168c4b",
+                "CaseTypeName": "Wireless Telecom Facility - Co-location",
+                "CategoryObjectId": 0,
+                "CategoryObjectName": "PLAN",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "80a2f49b-7e59-4bab-9e44-da357be41d3d_9f8efb6c-b6b1-47d0-b61f-9ee4f8e2047f",
+                "CaseTypeName": "Wireless Telecom Facility - Equipment Upgrade/Replacement",
+                "CategoryObjectId": 0,
+                "CategoryObjectName": "PLAN",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "80a2f49b-7e59-4bab-9e44-da357be41d3d_51279fda-6154-4cff-afa6-2c8a9c88e4cc",
+                "CaseTypeName": "Wireless Telecom Facility - Facility Upgrade/Replacement",
+                "CategoryObjectId": 0,
+                "CategoryObjectName": "PLAN",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "224b1aff-286a-486d-bd13-fed0d62a041e_e553a6ad-9432-4c77-9325-6e4c9ef58e6f",
+                "CaseTypeName": "Wireless Telecom Facility - New",
+                "CategoryObjectId": 0,
+                "CategoryObjectName": "PERMIT",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "80a2f49b-7e59-4bab-9e44-da357be41d3d_e2498a3d-ebe2-4f0d-97fb-3d88aae3c501",
+                "CaseTypeName": "Wireless Telecom Facility - New",
+                "CategoryObjectId": 0,
+                "CategoryObjectName": "PLAN",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "80a2f49b-7e59-4bab-9e44-da357be41d3d_38e9bb2c-1110-4a47-ae93-8ad8a8ef986d",
+                "CaseTypeName": "Wireless Telecom Facility - Temporary COW",
+                "CategoryObjectId": 0,
+                "CategoryObjectName": "PLAN",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "eae93da3-86fd-4890-b98b-f87d86fd6b56_fa9fc36d-0c3c-4883-b9be-fd576fa9c85f",
+                "CaseTypeName": "Zoning Action - Map Amendment",
+                "CategoryObjectId": 0,
+                "CategoryObjectName": "PLAN",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "b9cf18a8-9a41-4651-a70d-420acc2b2feb_e2498a3d-ebe2-4f0d-97fb-3d88aae3c501",
+                "CaseTypeName": "Zoning Application Review - New",
+                "CategoryObjectId": 0,
+                "CategoryObjectName": "PLAN",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "a7496f60-b65e-47c5-a346-a6aa3bd0ff89_7ab22881-ce7e-4cf4-98ec-f7940207ce08",
+                "CaseTypeName": "Zoning Board of Appeals (Non-Residential)",
+                "CategoryObjectId": 2,
+                "CategoryObjectName": "PLAN",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "a7496f60-b65e-47c5-a346-a6aa3bd0ff89_e8bd20b4-4c3a-4179-8480-c84869a75e0f",
+                "CaseTypeName": "Zoning Board of Appeals (Residential)",
+                "CategoryObjectId": 2,
+                "CategoryObjectName": "PLAN",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "b1add1b3-6584-4114-88eb-e9540a33019c_e553a6ad-9432-4c77-9325-6e4c9ef58e6f",
+                "CaseTypeName": "Zoning Certification Letter - New",
+                "CategoryObjectId": 0,
+                "CategoryObjectName": "PERMIT",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "96e7f5b6-f700-09aa-51f4-21642daa185b_97b07c98-471b-48a7-8b1f-ee27458a7990",
+                "CaseTypeName": "Zoning Permit - All-inclusive",
+                "CategoryObjectId": 0,
+                "CategoryObjectName": "PERMIT",
+                "BusinessLicenseTypeModuleId": null
+            },
+            {
+                "CaseTypeId": "eae93da3-86fd-4890-b98b-f87d86fd6b56_9de2529d-4bd9-49c4-8733-e9c9599622e9",
+                "CaseTypeName": "Zoning Text Amendment Application",
+                "CategoryObjectId": 2,
+                "CategoryObjectName": "PLAN",
+                "BusinessLicenseTypeModuleId": null
+            }
+        ],
+        "Status": [
+            {
+                "StatusId": "none",
+                "Name": "--Select Request Status--",
+                "CategoryObjectId": 6,
+                "CategoryObjectName": "STATUS"
+            },
+            {
+                "StatusId": "none",
+                "Name": "--Select Code Case Status--",
+                "CategoryObjectId": 5,
+                "CategoryObjectName": "STATUS"
+            },
+            {
+                "StatusId": "none",
+                "Name": "--Select Inspection Status--",
+                "CategoryObjectId": 4,
+                "CategoryObjectName": "STATUS"
+            },
+            {
+                "StatusId": "none",
+                "Name": "--Select Plan Status--",
+                "CategoryObjectId": 3,
+                "CategoryObjectName": "STATUS"
+            },
+            {
+                "StatusId": "none",
+                "Name": "--Select Permit Status--",
+                "CategoryObjectId": 2,
+                "CategoryObjectName": "STATUS"
+            }
+        ],
+        "LicenseStatus": [
+            {
+                "LicenseStatusId": "none",
+                "Name": "--Select License Status--",
+                "CategoryObjectId": 10,
+                "CategoryObjectName": "LICENSESTATUS"
+            }
+        ],
+        "BusinessStatus": [
+            {
+                "BusinessStatusId": "none",
+                "Name": "--Select Business Status--",
+                "CategoryObjectId": 10,
+                "CategoryObjectName": "BUSINESSSTATUS"
+            }
+        ],
+        "BusinessTypes": [
+            {
+                "BusinessTypeId": "none",
+                "BusinessTypeName": "--Select Industry Classification-",
+                "CategoryObjectId": 10,
+                "CategoryObjectName": "BUSINESSTYPE"
+            }
+        ],
+        "CompanyTypes": [
+            {
+                "CompanyTypeId": "none",
+                "CompanyTypeName": "--Select Company Type--",
+                "CategoryObjectId": 10,
+                "CategoryObjectName": "COMPANYTYPE"
+            }
+        ],
+        "SearchFilters": [
+            {
+                "FilterValue": 1,
+                "FilterName": "All"
+            },
+            {
+                "FilterValue": 2,
+                "FilterName": "Permit"
+            },
+            {
+                "FilterValue": 3,
+                "FilterName": "Plan"
+            },
+            {
+                "FilterValue": 4,
+                "FilterName": "Inspection"
+            },
+            {
+                "FilterValue": 5,
+                "FilterName": "Code Case"
+            },
+            {
+                "FilterValue": 6,
+                "FilterName": "Request"
+            },
+            {
+                "FilterValue": 11,
+                "FilterName": "Project"
+            }
+        ]
+    },
+    "Success": true,
+    "ErrorMessage": "",
+    "ValidationErrorMessage": "",
+    "ConcurrencyErrorMessage": "",
+    "StatusCode": 200,
+    "BrokenRules": []
+}

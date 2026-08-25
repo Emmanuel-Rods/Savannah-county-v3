@@ -1,0 +1,100 @@
+{
+    "Result": [
+        {
+            "PermitStatusId": "72e2fa6e-cc0f-70d0-8f22-df58b28a58c4",
+            "Name": "Amendment Review",
+            "Description": "Amendment Review"
+        },
+        {
+            "PermitStatusId": "5aefe961-4f86-4db1-9503-48462e67296e",
+            "Name": "Approved",
+            "Description": "Approved"
+        },
+        {
+            "PermitStatusId": "e3415371-1275-4124-9146-f2079d4231fa",
+            "Name": "Closed",
+            "Description": "Closed"
+        },
+        {
+            "PermitStatusId": "5f265707-1350-41ee-97f2-22027d8f55c3",
+            "Name": "Close-out",
+            "Description": "Close-out"
+        },
+        {
+            "PermitStatusId": "e9782642-b1c3-4e9a-b2a2-f13b2d3c12b4",
+            "Name": "Denied",
+            "Description": "Denied"
+        },
+        {
+            "PermitStatusId": "2357ee52-4cf7-46ad-a1e4-d6108be45aa9",
+            "Name": "Hold",
+            "Description": "Hold"
+        },
+        {
+            "PermitStatusId": "513be724-42b6-4ce7-bc82-14e45fa36e46",
+            "Name": "In Review",
+            "Description": "In Review"
+        },
+        {
+            "PermitStatusId": "5471fd9c-3df9-8964-6613-77ceb4f36299",
+            "Name": "Inspection Hold",
+            "Description": "Inspection Hold"
+        },
+        {
+            "PermitStatusId": "efa06580-6005-194d-0142-7ee41e7d1b5e",
+            "Name": "Invoiced",
+            "Description": "Invoiced"
+        },
+        {
+            "PermitStatusId": "694bc94f-a57f-4235-b66c-31f7ba37222b",
+            "Name": "Issued",
+            "Description": "Issued"
+        },
+        {
+            "PermitStatusId": "48f40c1c-cde8-4739-8d64-6e23294e9c92",
+            "Name": "Online Submission",
+            "Description": "Online Submission"
+        },
+        {
+            "PermitStatusId": "a3274655-17bd-4571-b90b-405f3dbe51de",
+            "Name": "PRECON Scheduled",
+            "Description": "PRECON Scheduled"
+        },
+        {
+            "PermitStatusId": "09c295a9-bf10-4ba0-86ef-edd1a253d159",
+            "Name": "Project Cancelled",
+            "Description": "Project Cancelled"
+        },
+        {
+            "PermitStatusId": "7cfa52ec-0783-4e5f-99b0-3404effd3933",
+            "Name": "Revoked",
+            "Description": "Revoked"
+        },
+        {
+            "PermitStatusId": "7744b31f-d0cc-4421-9106-7622e6467360",
+            "Name": "Submitted",
+            "Description": "Submitted"
+        },
+        {
+            "PermitStatusId": "5c71bcfa-1bc8-4298-98ec-fabea95e021b",
+            "Name": "Voided",
+            "Description": "Voided"
+        },
+        {
+            "PermitStatusId": "889dfc4a-e50a-46cd-b6ed-b7f8640136a0",
+            "Name": "Warranty Period",
+            "Description": "Warranty Period"
+        },
+        {
+            "PermitStatusId": "cb99a6ea-de00-4537-8587-1579c76c92c5",
+            "Name": "Withdrawn",
+            "Description": "Permit withdrawn by applicant during review"
+        }
+    ],
+    "Success": true,
+    "ErrorMessage": "",
+    "ValidationErrorMessage": "",
+    "ConcurrencyErrorMessage": "",
+    "StatusCode": 200,
+    "BrokenRules": []
+}
