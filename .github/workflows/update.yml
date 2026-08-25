@@ -31,4 +31,6 @@ jobs:
           SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
           SUPABASE_KEY: ${{ secrets.SUPABASE_KEY }}
           TABLE: ${{ secrets.TABLE }}
+          TYLER_EMAIL: ${{ secrets.TYLER_EMAIL }}
+          TYLER_PASSWORD: ${{ secrets.TYLER_PASSWORD }}
         run: node update.js
