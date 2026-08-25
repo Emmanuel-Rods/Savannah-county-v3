@@ -1,7 +1,7 @@
 node_modules/
 .env
 permits/
-site.data/secondary.data.json
-site.data/status.ids.json
 daily_permits.json
 DIFF_FOLDER
+token
+*.png
