@@ -1,6 +1,6 @@
 const base = "https://etrac.savannahga.gov/EnerGov_Prod/"; // No trailing slash
 
-const dateOffset = 100; // 1 = yesterday
+const dateOffset = 365; // 1 = yesterday
 
 // statuses that need to pulled using daily.js
 const requiredStatuses = ["Issued"];
