@@ -8,6 +8,9 @@ const get_inspection = require("../apis/inspection.js");
 const get_permit = require("../apis/permit.js");
 const get_summary = require("../apis/summary.js");
 
+//extension
+const get_attachments = require("../../extension/attachments/get_attachments.js");
+
 const delay = (ms) => new Promise((resolve) => setTimeout(resolve, ms));
 
 // utils
@@ -62,24 +65,29 @@ async function fetchNewPermits(file, outputFolder = "permits", base) {
       const auth = `Bearer ${token}`;
 
       try {
-        const [contacts, inspections, permit, summary] = await Promise.all([
-          get_contacts(CaseId, base, auth).catch((err) => ({
-            error: true,
-            message: err.message,
-          })),
-          get_inspection(CaseId, base, auth).catch((err) => ({
-            error: true,
-            message: err.message,
-          })),
-          get_permit(CaseId, base, auth).catch((err) => ({
-            error: true,
-            message: err.message,
-          })),
-          get_summary(CaseId, base, auth).catch((err) => ({
-            error: true,
-            message: err.message,
-          })),
-        ]);
+        const [contacts, inspections, permit, summary, attachment] =
+          await Promise.all([
+            get_contacts(CaseId, base, auth).catch((err) => ({
+              error: true,
+              message: err.message,
+            })),
+            get_inspection(CaseId, base, auth).catch((err) => ({
+              error: true,
+              message: err.message,
+            })),
+            get_permit(CaseId, base, auth).catch((err) => ({
+              error: true,
+              message: err.message,
+            })),
+            get_summary(CaseId, base, auth).catch((err) => ({
+              error: true,
+              message: err.message,
+            })),
+            get_attachments(CaseId, base, auth).catch((err) => ({
+              error: true,
+              message: err.message,
+            })),
+          ]);
 
         // Structure the consolidated object
         const consolidatedData = {
@@ -88,6 +96,7 @@ async function fetchNewPermits(file, outputFolder = "permits", base) {
           inspections,
           permit,
           summary,
+          attachment,
         };
 
         // Sanitize CaseNumber to ensure valid filesystem filename

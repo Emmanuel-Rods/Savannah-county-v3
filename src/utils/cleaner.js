@@ -396,6 +396,10 @@ function cleanJsonObject(inputJson, fileName) {
       missingDataLog.push(`[${fileName}] Missing/Empty: summary.Result array`);
     }
 
+    // --- 5. ATTACHMENT EXTRACTION --- < YOLO
+    const attachment = inputJson.attachment || {};
+    cleanedData.attachment = attachment;
+
     // Return the final cleaned object
     return cleanedData;
   } catch (e) {
